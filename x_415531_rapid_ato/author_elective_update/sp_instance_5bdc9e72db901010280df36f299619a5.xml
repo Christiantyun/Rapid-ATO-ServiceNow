@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a3f656bedb501010280df36f2996193c</sp_column>
+        <sp_widget display_value="Domain Link">3e774bad3b203300f7fb653a34efc4f2</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 17:53:57</sys_created_on>
+        <sys_id>5bdc9e72db901010280df36f299619a5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create New Control</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sp_instance_5bdc9e72db901010280df36f299619a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 17:54:08</sys_updated_on>
+        <title>Create New Control</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Create New Control",
+		"displayValue": "Create New Control"
+	},
+	"description": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link": {
+		"value": "https://dev60831.service-now.com/x_415531_rapid_ato_controls.do?sys_id=-1&sysparm_stack=x_415531_rapid_ato_controls_list.do",
+		"displayValue": "https://dev60831.service-now.com/x_415531_rapid_ato_controls.do?sys_id=-1&sysparm_stack=x_415531_rapid_ato_controls_list.do"
+	},
+	"link_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=5bdc9e72db901010280df36f299619a5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sp_instance_5bdc9e72db901010280df36f299619a5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;a3f656bedb501010280df36f2996193c&lt;/sp_column&gt;&lt;sp_widget display_value="Domain Link"&gt;3e774bad3b203300f7fb653a34efc4f2&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-24 17:53:57&lt;/sys_created_on&gt;&lt;sys_id&gt;5bdc9e72db901010280df36f299619a5&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create New Control&lt;/sys_name&gt;&lt;sys_package display_value="Rapid ATO" source="x_415531_rapid_ato"&gt;64898e36db501010280df36f29961934&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Rapid ATO"&gt;64898e36db501010280df36f29961934&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_5bdc9e72db901010280df36f299619a5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-24 17:54:08&lt;/sys_updated_on&gt;&lt;title&gt;Create New Control&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Create New Control",
+		"displayValue": "Create New Control"
+	},
+	"description": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link": {
+		"value": "https://dev60831.service-now.com/x_415531_rapid_ato_controls.do?sys_id=-1&amp;sysparm_stack=x_415531_rapid_ato_controls_list.do",
+		"displayValue": "https://dev60831.service-now.com/x_415531_rapid_ato_controls.do?sys_id=-1&amp;sysparm_stack=x_415531_rapid_ato_controls_list.do"
+	},
+	"link_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=5bdc9e72db901010280df36f299619a5"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>260879017</payload_hash>
+        <record_name>Create New Control</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 17:54:08</sys_created_on>
+        <sys_id>0eec1a72db901010280df36f29961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ad53495b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 17:54:08</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>46ec1a724290101077977831dd5e4173</update_guid>
+        <update_guid_history>46ec1a724290101077977831dd5e4173:260879017,13dc9e729690101087905d2d05d0faa7:-1001164452</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New Control">46fcd2b2db901010280df36f299619ae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 17:54:24</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>77ba5c77d53340a5bc35e742eecbe8a9</sys_id>
+        <sys_metadata>5bdc9e72db901010280df36f299619a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Control</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sp_instance_5bdc9e72db901010280df36f299619a5</sys_update_name>
+        <sys_update_version display_value="sp_instance_5bdc9e72db901010280df36f299619a5">0eec1a72db901010280df36f29961973</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 17:54:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

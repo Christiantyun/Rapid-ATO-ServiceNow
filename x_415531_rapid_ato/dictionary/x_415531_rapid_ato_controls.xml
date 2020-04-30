@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Controls (Initial Test)" max_length="40" name="x_415531_rapid_ato_controls" sizeclass="6" type="collection">
+        <element label="Allocation Status" max_length="40" name="allocation_status" type="string"/>
+        <element label="Control Name" max_length="40" name="control_name" type="string"/>
+        <element label="Control Number Combo" max_length="40" name="control_number_combo" type="string"/>
+        <element label="Hybrid Control" max_length="40" name="hybrid_control" type="string"/>
+        <element label="Inheritable" max_length="40" name="inheritable" type="boolean"/>
+        <element label="Overall Assessment Date" max_length="40" name="overall_assessment_date" type="glide_date"/>
+    </element>
+</database>

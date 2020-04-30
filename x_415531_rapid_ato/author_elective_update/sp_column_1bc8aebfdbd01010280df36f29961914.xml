@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">5bc8eabfdbd01010280df36f29961941</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 21:20:02</sys_created_on>
+        <sys_id>1bc8aebfdbd01010280df36f29961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sp_column_1bc8aebfdbd01010280df36f29961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 21:20:02</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sp_column_1bc8aebfdbd01010280df36f29961914</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">5bc8eabfdbd01010280df36f29961941</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 21:20:02</sys_created_on><sys_id>1bc8aebfdbd01010280df36f29961914</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sp_column_1bc8aebfdbd01010280df36f29961914</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 21:20:02</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-157470232</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 21:20:02</sys_created_on>
+        <sys_id>9bc8aebfdbd01010280df36f29961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171bd82de4b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 21:20:02</sys_updated_on>
+        <type>Column</type>
+        <update_guid>d3c8aebf1dd01010f6907736ab655615</update_guid>
+        <update_guid_history>d3c8aebf1dd01010f6907736ab655615:-157470232</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">ad4c2673db141010280df36f2996199c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 21:35:12</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>1da73582d2ff44cd9d7d4eba7dd38a31</sys_id>
+        <sys_metadata>1bc8aebfdbd01010280df36f29961914</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sp_column_1bc8aebfdbd01010280df36f29961914</sys_update_name>
+        <sys_update_version display_value="sp_column_1bc8aebfdbd01010280df36f29961914">9bc8aebfdbd01010280df36f29961915</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 21:35:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

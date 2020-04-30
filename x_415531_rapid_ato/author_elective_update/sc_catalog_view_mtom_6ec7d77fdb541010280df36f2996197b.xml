@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Rapid ATO Service Catalog">2d87d37fdb541010280df36f299619cb</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 00:45:20</sys_created_on>
+        <sys_id>6ec7d77fdb541010280df36f2996197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rapid ATO Service Catalog.catalog_rapid_ato_service_catalog</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_rapid_ato_service_catalog">eec7d77fdb541010280df36f29961979</sys_portal_page>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_6ec7d77fdb541010280df36f2996197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 00:45:20</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sc_catalog_view_mtom_6ec7d77fdb541010280df36f2996197b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Rapid ATO Service Catalog">2d87d37fdb541010280df36f299619cb</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 00:45:20</sys_created_on><sys_id>6ec7d77fdb541010280df36f2996197b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rapid ATO Service Catalog.catalog_rapid_ato_service_catalog</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_portal_page display_value="catalog_rapid_ato_service_catalog">eec7d77fdb541010280df36f29961979</sys_portal_page><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sc_catalog_view_mtom_6ec7d77fdb541010280df36f2996197b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 00:45:20</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-486782248</payload_hash>
+        <record_name>Rapid ATO Service Catalog.catalog_rapid_ato_service_catalog</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 00:45:20</sys_created_on>
+        <sys_id>f2c7d77fdb541010280df36f2996197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171be3ed3620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 00:45:20</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>2ec7d77fd2541010679b791640b6ef7d</update_guid>
+        <update_guid_history>2ec7d77fd2541010679b791640b6ef7d:-486782248</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rapid ATO Service Catalog.catalog_rapid_ato_service_catalog">07e75b7fdb541010280df36f2996199b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 00:45:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>873332c5cb7f43679e4f258ac579d039</sys_id>
+        <sys_metadata>6ec7d77fdb541010280df36f2996197b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rapid ATO Service Catalog.catalog_rapid_ato_service_catalog</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_6ec7d77fdb541010280df36f2996197b</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_6ec7d77fdb541010280df36f2996197b">f2c7d77fdb541010280df36f2996197e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 00:45:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

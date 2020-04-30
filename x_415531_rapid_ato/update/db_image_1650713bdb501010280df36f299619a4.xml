@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format/>
+        <height/>
+        <image>5b70353bdb501010280df36f299619c6</image>
+        <name>icon-dot-gov.svg</name>
+        <size_bytes>800</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 17:13:51</sys_created_on>
+        <sys_id>1650713bdb501010280df36f299619a4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>icon-dot-gov.svg</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>db_image_1650713bdb501010280df36f299619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 17:14:01</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <hash>54f6653a149c83b73515cc2ec032a18151b57d3ffe97ef04495ce6623e48d1bb</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>800</size_bytes>
+        <size_compressed>423</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 17:14:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5b70353bdb501010280df36f299619c6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2020-04-27 17:14:01</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>1650713bdb501010280df36f299619a4</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="5b70353bdb501010280df36f299619c6">5b70353bdb501010280df36f299619c6</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 17:14:00</sys_created_on>
+        <sys_id>9b70353bdb501010280df36f299619c6</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>dVLbbpwwEP0Vy332YI8NNhUQqZGifclT2w+IFoqRWIh2qYn4+vjCJqt2I4E958yZ4/HI1cPbaSSuO1+GeaqpAE5JNx3ndpj6mv7+9cQMfWiqi+uJF06Xmtplef2eZeu6wiphPvcZcs4zr6BkHdrF1rRQlNhu6O2SYjd064/5raaccFIo/9GmWoZl7JrhOE+snRfWz67KEle9viyW/BnGsabfUGrzKGmE7Px37GrauW6a25aStqbPEgk/Cg2Flt7cI6FAog5RSJGUYh8si4nHHftmOFHlZzW/1u9bIreT5wG5CXVlqRK4rreUxJ87LhB0GZvYo33zp3Fe3KR34lqfgu0kOOQlkQZMbl78osNPwgQFAWMQDKITUCg8CC8yhWMR3dOyID4o9I7bM+aglCSoQWvlSp8qbax0zANpJaCWgZcHecth5KJU/k+DLr7oUriwWIYCfB0YXt4Rhg6DRzpQYbLeTjloWTADwphRIGApiR+vyNPNbbiy/MeOXadz8CcqcS8b52HZfuu47e4sum80a6rwpJt3EkkOxiADAAA=</data>
+        <length>552</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="5b70353bdb501010280df36f299619c6">5b70353bdb501010280df36f299619c6</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 17:14:00</sys_created_on>
+        <sys_id>1f70353bdb501010280df36f299619c6</sys_id>
+    </sys_attachment_doc>
+</record_update>

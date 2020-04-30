@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="ARS_3_1" max_length="40" name="x_415531_rapid_ato_ars_3_1" sizeclass="489" type="collection">
+        <element label="Assessment Methods and Objects" max_length="40" name="assessment_methods_and_objects" type="string"/>
+        <element label="Assessment Objective" max_length="40" name="assessment_objective" type="string"/>
+        <element label="Assurance" max_length="40" name="assurance" type="string"/>
+        <element label="Baseline" max_length="40" name="baseline" type="string"/>
+        <element label="Control Definition" max_length="40" name="control_definition" type="string"/>
+        <element label="Control Family" max_length="40" name="control_family" type="string"/>
+        <element label="Control Name" max_length="40" name="control_name" type="string"/>
+        <element label="Control Number" max_length="40" name="control_number" type="string"/>
+        <element label="Control Type" max_length="40" name="control_type" type="string"/>
+        <element label="High" max_length="40" name="high" type="boolean"/>
+        <element label="Implementation Standards" max_length="40" name="implementation_standards" type="string"/>
+        <element label="Low" max_length="40" name="low" type="boolean"/>
+        <element label="Moderate" max_length="40" name="moderate" type="boolean"/>
+        <element label="Reference Policy" max_length="40" name="reference_policy" type="string"/>
+        <element label="Related Controls" max_length="40" name="related_controls" type="string"/>
+        <element label="Supplemental Guidance" max_length="40" name="supplemental_guidance" type="string"/>
+    </element>
+</database>

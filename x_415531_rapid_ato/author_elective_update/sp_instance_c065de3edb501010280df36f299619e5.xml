@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ef05d27edb501010280df36f299619d6</sp_column>
+        <sp_widget display_value="CAB Workbench - Form Widget">3e9d0792db1022004d27b31be0b8f5af</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 17:21:14</sys_created_on>
+        <sys_id>c065de3edb501010280df36f299619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sp_instance_c065de3edb501010280df36f299619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 17:21:14</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=c065de3edb501010280df36f299619e5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sp_instance_c065de3edb501010280df36f299619e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">ef05d27edb501010280df36f299619d6</sp_column><sp_widget display_value="CAB Workbench - Form Widget">3e9d0792db1022004d27b31be0b8f5af</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-24 17:21:14</sys_created_on><sys_id>c065de3edb501010280df36f299619e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sp_instance_c065de3edb501010280df36f299619e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-24 17:21:14</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=c065de3edb501010280df36f299619e5"/></record_update>]]></payload>
+        <payload_hash>2122294180</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 17:21:14</sys_created_on>
+        <sys_id>4065de3edb501010280df36f299619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ad3529310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 17:21:14</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>8865de3e8450101074ba3c63eb8007e6</update_guid>
+        <update_guid_history>8865de3e8450101074ba3c63eb8007e6:2122294180</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">71651a7edb501010280df36f29961903</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 17:21:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>10e5a833dce24b0d81ad69b25056e4e9</sys_id>
+        <sys_metadata>c065de3edb501010280df36f299619e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sp_instance_c065de3edb501010280df36f299619e5</sys_update_name>
+        <sys_update_version display_value="sp_instance_c065de3edb501010280df36f299619e5">4065de3edb501010280df36f299619e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 17:21:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
