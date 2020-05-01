@@ -200,7 +200,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_415531_rapid_ato_controls</sys_name>
         <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
-        <sys_parent display_value="Controls (Initial Test)">d5a90a76db501010280df36f299619c6</sys_parent>
+        <sys_parent display_value="">d5a90a76db501010280df36f299619c6</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
         <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>

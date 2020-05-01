@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">b67462fbdbd01010280df36f299619e9</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 21:01:10</sys_created_on>
+        <sys_id>3e7462fbdbd01010280df36f299619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b67462fbdbd01010280df36f299619e9</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_report_users_groups_3e7462fbdbd01010280df36f299619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 21:01:10</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_report_users_groups_3e7462fbdbd01010280df36f299619e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">b67462fbdbd01010280df36f299619e9</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 21:01:10</sys_created_on><sys_id>3e7462fbdbd01010280df36f299619e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b67462fbdbd01010280df36f299619e9</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sys_report_users_groups_3e7462fbdbd01010280df36f299619e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 21:01:10</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-1350787755</payload_hash>
+        <record_name>b67462fbdbd01010280df36f299619e9</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 21:01:10</sys_created_on>
+        <sys_id>ba7462fbdbd01010280df36f299619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171bd71967d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 21:01:10</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>f27462fb74d0101014b66c7a3a2c1dec</update_guid>
+        <update_guid_history>f27462fb74d0101014b66c7a3a2c1dec:-1350787755</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:12:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>4f95118d2be345a2af2b69f3e8cbec21</sys_id>
+        <sys_metadata>3e7462fbdbd01010280df36f299619e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b67462fbdbd01010280df36f299619e9</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent display_value="">b67462fbdbd01010280df36f299619e9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_3e7462fbdbd01010280df36f299619e9</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_3e7462fbdbd01010280df36f299619e9">ba7462fbdbd01010280df36f299619ec</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:12:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
