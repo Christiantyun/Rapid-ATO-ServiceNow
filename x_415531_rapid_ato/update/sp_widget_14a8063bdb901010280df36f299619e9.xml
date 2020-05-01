@@ -28,7 +28,7 @@ panel.style.display = "block";
 });
 }
 }]]></link>
-        <name>Official USDA Site Header</name>
+        <name>Official USWDS Site Header</name>
         <option_schema/>
         <public>false</public>
         <roles/>
@@ -38,14 +38,14 @@ panel.style.display = "block";
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-27 18:59:29</sys_created_on>
         <sys_id>14a8063bdb901010280df36f299619e9</sys_id>
-        <sys_mod_count>24</sys_mod_count>
-        <sys_name>Official USDA Site Header</sys_name>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name>Official USWDS Site Header</sys_name>
         <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
         <sys_update_name>sp_widget_14a8063bdb901010280df36f299619e9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-27 19:34:40</sys_updated_on>
+        <sys_updated_on>2020-05-01 15:30:14</sys_updated_on>
         <template><![CDATA[<div class="grid-col-fill tablet:grid-col-auto">
     <p class="usa-banner__header-text">An official website of the United States government</p>
     <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>

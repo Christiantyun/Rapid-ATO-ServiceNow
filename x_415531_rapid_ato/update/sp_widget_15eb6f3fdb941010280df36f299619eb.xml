@@ -169,7 +169,7 @@ a.color_box .fa {
         <id>usda_icon_link</id>
         <internal>false</internal>
         <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
-        <name>USDA Icon Link</name>
+        <name>USWDS Icon Link</name>
         <option_schema>[{"name":"link_template","section":"Presentation","label":"Template","type":"choice","choices":[{"label":"Top Icon","value":"Top Icon"},{"label":"Circle Icon","value":"Circle Icon"},{"label":"Color Box","value":"Color Box"}]}]</option_schema>
         <public>true</public>
         <roles/>
@@ -183,14 +183,14 @@ a.color_box .fa {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-28 02:13:10</sys_created_on>
         <sys_id>15eb6f3fdb941010280df36f299619eb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>USDA Icon Link</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>USWDS Icon Link</sys_name>
         <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
         <sys_update_name>sp_widget_15eb6f3fdb941010280df36f299619eb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-28 02:13:10</sys_updated_on>
+        <sys_updated_on>2020-05-01 15:29:36</sys_updated_on>
         <template><![CDATA[<div class="iconlink" ng-class="{'high-contrast': accessibilityModeEnabled}">
   <!--// Top Icon -->
   <a ng-if="::(options.link_template == 'Top Icon' || !options.link_template)" ng-href="{{::data.href}}" class="top_icon {{::options.class_name}}" target="{{::data.target}}">

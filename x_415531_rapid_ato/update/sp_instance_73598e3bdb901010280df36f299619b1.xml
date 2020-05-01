@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">e678063bdb901010280df36f299619e1</sp_column>
-        <sp_widget display_value="Official USDA Site Header">14a8063bdb901010280df36f299619e9</sp_widget>
+        <sp_widget display_value="Official USWDS Site Header">14a8063bdb901010280df36f299619e9</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-27 19:02:42</sys_created_on>
