@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="DELETE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {  /* widget controller */  var c = this;}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>official_usda_site_header</id>
+        <internal>false</internal>
+        <link><![CDATA[function() {
+	var acc = document.getElementsByClassName("usa-accordion__button usa-banner__button");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+acc[i].addEventListener("click", function() {
+this.classList.toggle("block");
+var panel = this.nextElementSibling;
+if (panel.style.display === "block") {
+panel.style.display = "none";
+} else {
+panel.style.display = "block";
+}
+});
+}
+}]]></link>
+        <name>Official USWDS Site Header</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 18:59:29</sys_created_on>
+        <sys_id>14a8063bdb901010280df36f299619e9</sys_id>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name>Official USWDS Site Header</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sp_widget_14a8063bdb901010280df36f299619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:30:14</sys_updated_on>
+        <template><![CDATA[<div class="grid-col-fill tablet:grid-col-auto">
+    <p class="usa-banner__header-text">An official website of the United States government</p>
+    <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
+</div>
+<button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+    <span class="usa-banner__button-text">Here’s how you know</span>
+</button> 
+
+<div class="panel">
+<section class="usa-banner" aria-label="Official government website">
+        <div class="usa-accordion">
+            <header class="usa-banner__header">
+                <div class="usa-banner__inner">
+                    <div class="grid-col-auto">
+                        <img class="usa-banner__header-flag" src="us_flag_small.png" alt="U.S. flag">
+                    </div>
+                </div>
+            </header>
+            <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+                <div class="grid-row grid-gap-lg">
+                    <div class="usa-banner__guidance tablet:grid-col-6">
+                        <img class="usa-banner__icon usa-media-block__img" src="icon-dot-gov.svg" alt="Dot gov">
+                        <div class="usa-media-block__body">
+                            <p>
+                                <strong>The .gov means it’s official.</strong>
+                                <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="usa-banner__guidance tablet:grid-col-6">
+                        <img class="usa-banner__icon usa-media-block__img" src="icon-https.svg" alt="Https">
+                        <div class="usa-media-block__body">
+                            <p>
+                                <strong>The site is secure.</strong>
+                                <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+]]></template>
+    </sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sp_widget_14a8063bdb901010280df36f299619e9</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function() {  /* widget controller */  var c = this;}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css/&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;official_usda_site_header&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function() {
+	var acc = document.getElementsByClassName("usa-accordion__button usa-banner__button");
+var i;
+
+for (i = 0; i &lt; acc.length; i++) {
+acc[i].addEventListener("click", function() {
+this.classList.toggle("block");
+var panel = this.nextElementSibling;
+if (panel.style.display === "block") {
+panel.style.display = "none";
+} else {
+panel.style.display = "block";
+}
+});
+}
+}]]&gt;&lt;/link&gt;&lt;name&gt;Official USWDS Site Header&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-27 18:59:29&lt;/sys_created_on&gt;&lt;sys_id&gt;14a8063bdb901010280df36f299619e9&lt;/sys_id&gt;&lt;sys_mod_count&gt;25&lt;/sys_mod_count&gt;&lt;sys_name&gt;Official USWDS Site Header&lt;/sys_name&gt;&lt;sys_package display_value="Rapid ATO" source="x_415531_rapid_ato"&gt;64898e36db501010280df36f29961934&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Rapid ATO"&gt;64898e36db501010280df36f29961934&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_14a8063bdb901010280df36f299619e9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-01 15:30:14&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div class="grid-col-fill tablet:grid-col-auto"&gt;
+    &lt;p class="usa-banner__header-text"&gt;An official website of the United States government&lt;/p&gt;
+    &lt;p class="usa-banner__header-action" aria-hidden="true"&gt;Here’s how you know&lt;/p&gt;
+&lt;/div&gt;
+&lt;button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner"&gt;
+    &lt;span class="usa-banner__button-text"&gt;Here’s how you know&lt;/span&gt;
+&lt;/button&gt; 
+
+&lt;div class="panel"&gt;
+&lt;section class="usa-banner" aria-label="Official government website"&gt;
+        &lt;div class="usa-accordion"&gt;
+            &lt;header class="usa-banner__header"&gt;
+                &lt;div class="usa-banner__inner"&gt;
+                    &lt;div class="grid-col-auto"&gt;
+                        &lt;img class="usa-banner__header-flag" src="us_flag_small.png" alt="U.S. flag"&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/header&gt;
+            &lt;div class="usa-banner__content usa-accordion__content" id="gov-banner"&gt;
+                &lt;div class="grid-row grid-gap-lg"&gt;
+                    &lt;div class="usa-banner__guidance tablet:grid-col-6"&gt;
+                        &lt;img class="usa-banner__icon usa-media-block__img" src="icon-dot-gov.svg" alt="Dot gov"&gt;
+                        &lt;div class="usa-media-block__body"&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;The .gov means it’s official.&lt;/strong&gt;
+                                &lt;br&gt; Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+                            &lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class="usa-banner__guidance tablet:grid-col-6"&gt;
+                        &lt;img class="usa-banner__icon usa-media-block__img" src="icon-https.svg" alt="Https"&gt;
+                        &lt;div class="usa-media-block__body"&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;The site is secure.&lt;/strong&gt;
+                                &lt;br&gt; The &lt;strong&gt;https://&lt;/strong&gt; ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+                            &lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/div&gt;
+
+
+
+]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2105732163</payload_hash>
+        <record_name>Official USWDS Site Header</record_name>
+        <reverted_from/>
+        <source>25aebd0ddba45010280df36f299619f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:30:14</sys_created_on>
+        <sys_id>121f354ddba45010280df36f29961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d0dc0c330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:30:14</sys_updated_on>
+        <type>Widget</type>
+        <update_guid>5a1f354d33a450105f7878c719414e34</update_guid>
+        <update_guid_history>5a1f354d33a450105f7878c719414e34:2105732163,7fa0d67f6990101019511a753df6bf5b:802472395,5270567f7b9010107096ac7941283d45:158671289,6bef027f0e901010039a654d2724bf29:509797770,e8bf0e3f5d901010e28916ddecb46bfd:-1870394938,a29f0e3f07901010250f37742ef999ba:-1042468682,be0f8efb58901010e53be1d4628c2f4e:247264830,80be8afb1a901010346ce013609b26d3:468882673,357e8ebb7a901010d6b89176eac6d984:-1114748919,791e4efb0f901010be683798c7f9736d:1906603334,300e4efb1a901010c9306380d4506c50:-1494100564,7bed0efb889010106ee4b6154a66193f:1037257912,5dbd4afb12901010cb6dafbd35d428ec:-20922440,78ad82fbc3901010996bf054c73c209b:951504406,dd5d86fb9a901010e34abaf70aa2ff44:1397494908,f33d46fbf3901010152084e830b7824d:118477970,2dfc82fbeb90101077e3ead01ebe5692:-298416032,e39cc67bdb9010101a46cc05ba53b7b3:-74166264,018ccabb03901010b1fe8302c308fafd:1840190102,204ccabbce9010107e3d9771f3c0c8ca:-434787504,830b4e7be29010104b3d1e83bd97e4d0:-955438473,7fca467b3790101045ca92a881e9c340:676546162,ad99427b7290101062ae05639a8e6918:-50343916,1589427bac9010105a6963da43adbb11:-836056352,8c598e3bdb901010c04619f58a85baab:-1920027189,9ca8063bc7901010e6245ac4a5abe7ea:-1456567348</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Official USWDS Site Header">2e0b5accdbf49010280df36f29961921</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 01:14:05</sys_created_on>
+        <sys_db_object display_value="" name="sp_widget">sp_widget</sys_db_object>
+        <sys_id>4341e90a457341c996b555428962e709</sys_id>
+        <sys_metadata>14a8063bdb901010280df36f299619e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Official USWDS Site Header</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sp_widget_14a8063bdb901010280df36f299619e9</sys_update_name>
+        <sys_update_version display_value="sp_widget_14a8063bdb901010280df36f299619e9">121f354ddba45010280df36f29961935</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 01:14:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

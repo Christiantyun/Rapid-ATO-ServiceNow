@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="DELETE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {  /* widget controller */  var c = this;}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>usda_homepage_widget</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>USWDS Homepage Widget</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 19:20:46</sys_created_on>
+        <sys_id>03b0b27adb901010280df36f2996190f</sys_id>
+        <sys_mod_count>32</sys_mod_count>
+        <sys_name>USWDS Homepage Widget</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sp_widget_03b0b27adb901010280df36f2996190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:29:51</sys_updated_on>
+        <template><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Rapid ATO</title>
+	<link rel="stylesheet" href="uswds.min.css" />
+
+</head>
+
+<body>
+
+    <div class="usa-overlay"></div>
+    <header class="usa-header usa-header--extended">
+        <div class="usa-navbar">
+            <div class="usa-logo" id="extended-logo">
+                <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">Rapid ATO</a></em>
+            </div>
+
+        </div>
+
+    </header>
+
+    <main id="main-content">
+
+        <section class="grid-container usa-section">
+            <div class="grid-row grid-gap">
+                <div class="tablet:grid-col-4">
+                    <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">A tagline highlights your approach</h2>
+                </div>
+                <div class="tablet:grid-col-8 usa-prose">
+                    <p>The tagline should inspire confidence and interest, focusing on the value that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.</p>
+                    <p>Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.</p>
+
+                </div>
+            </div>
+        </section>
+
+        <section class="usa-graphic-list usa-section usa-section--dark">
+            <div class="grid-container">
+                <div class="usa-graphic-list__row grid-row grid-gap">
+                    <div class="usa-media-block tablet:grid-col">
+                        <img class="usa-media-block__img" src="circle-124.png" alt="Alt text">
+                        <div class="usa-media-block__body">
+                            <h2 class="usa-graphic-list__heading">Graphic headings can vary.</h2>
+                            <p>Graphic headings can be used a few different ways, depending on what your landing page is for. Highlight your values, specific program areas, or results.</p>
+                        </div>
+                    </div>
+                    <div class="usa-media-block tablet:grid-col">
+                        <img class="usa-media-block__img" src="circle-124.png" alt="Alt text">
+                        <div class="usa-media-block__body">
+                            <h2 class="usa-graphic-list__heading">Stick to 6 or fewer words.</h2>
+                            <p>Keep body text to about 30 words. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="usa-graphic-list__row grid-row grid-gap">
+                    <div class="usa-media-block tablet:grid-col">
+                        <img class="usa-media-block__img" src="circle-124.png" alt="Alt text">
+                        <div class="usa-media-block__body">
+                            <h2 class="usa-graphic-list__heading">Never highlight anything without a goal.</h2>
+                            <p>For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.</p>
+                        </div>
+                    </div>
+                    <div class="usa-media-block tablet:grid-col">
+                        <img class="usa-media-block__img" src="circle-124.png" alt="Alt text">
+                        <div class="usa-media-block__body">
+                            <h2 class="usa-graphic-list__heading">Could also have 2 or 6.</h2>
+                            <p>In addition to your goal, find out your users’ goals. What do they want to know or do that supports your mission? Use these headings to show those.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="test-section-id" class="usa-section">
+            <div class="grid-container">
+                <h2 class="font-heading-xl margin-y-0">Section heading</h2>
+                <p class="usa-intro">Everything up to this point should help people understand your agency or project: who you are, your goal or mission, and how you approach it. Use this section to encourage them to act. Describe why they should get in touch here, and use
+                    an active verb on the button below. “Get in touch,” “Learn more,” and so on.</p>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="usa-footer">
+        <div class="grid-container usa-footer__return-to-top"></div>
+
+        <div class="usa-footer__secondary-section">
+            <div class="grid-container">
+                <div class="grid-row grid-gap">
+                    <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+                        <div class="mobile-lg:grid-col-auto">
+                            <img class="usa-footer__logo-img" src="logo-img.png" alt="">
+                        </div>
+                        <div class="mobile-lg:grid-col-auto">
+                            <h3 class="usa-footer__logo-heading">Name of Agency</h3>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
+
+
+]]></template>
+    </sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sp_widget_03b0b27adb901010280df36f2996190f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function() {  /* widget controller */  var c = this;}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css/&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;usda_homepage_widget&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function link(scope, element, attrs, controller) {  }]]&gt;&lt;/link&gt;&lt;name&gt;USWDS Homepage Widget&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-24 19:20:46&lt;/sys_created_on&gt;&lt;sys_id&gt;03b0b27adb901010280df36f2996190f&lt;/sys_id&gt;&lt;sys_mod_count&gt;32&lt;/sys_mod_count&gt;&lt;sys_name&gt;USWDS Homepage Widget&lt;/sys_name&gt;&lt;sys_package display_value="Rapid ATO" source="x_415531_rapid_ato"&gt;64898e36db501010280df36f29961934&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Rapid ATO"&gt;64898e36db501010280df36f29961934&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_03b0b27adb901010280df36f2996190f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-01 15:29:51&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
+    &lt;title&gt;Rapid ATO&lt;/title&gt;
+	&lt;link rel="stylesheet" href="uswds.min.css" /&gt;
+
+&lt;/head&gt;
+
+&lt;body&gt;
+
+    &lt;div class="usa-overlay"&gt;&lt;/div&gt;
+    &lt;header class="usa-header usa-header--extended"&gt;
+        &lt;div class="usa-navbar"&gt;
+            &lt;div class="usa-logo" id="extended-logo"&gt;
+                &lt;em class="usa-logo__text"&gt;&lt;a href="/" title="Home" aria-label="Home"&gt;Rapid ATO&lt;/a&gt;&lt;/em&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+
+    &lt;/header&gt;
+
+    &lt;main id="main-content"&gt;
+
+        &lt;section class="grid-container usa-section"&gt;
+            &lt;div class="grid-row grid-gap"&gt;
+                &lt;div class="tablet:grid-col-4"&gt;
+                    &lt;h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0"&gt;A tagline highlights your approach&lt;/h2&gt;
+                &lt;/div&gt;
+                &lt;div class="tablet:grid-col-8 usa-prose"&gt;
+                    &lt;p&gt;The tagline should inspire confidence and interest, focusing on the value that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.&lt;/p&gt;
+                    &lt;p&gt;Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.&lt;/p&gt;
+
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;section class="usa-graphic-list usa-section usa-section--dark"&gt;
+            &lt;div class="grid-container"&gt;
+                &lt;div class="usa-graphic-list__row grid-row grid-gap"&gt;
+                    &lt;div class="usa-media-block tablet:grid-col"&gt;
+                        &lt;img class="usa-media-block__img" src="circle-124.png" alt="Alt text"&gt;
+                        &lt;div class="usa-media-block__body"&gt;
+                            &lt;h2 class="usa-graphic-list__heading"&gt;Graphic headings can vary.&lt;/h2&gt;
+                            &lt;p&gt;Graphic headings can be used a few different ways, depending on what your landing page is for. Highlight your values, specific program areas, or results.&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class="usa-media-block tablet:grid-col"&gt;
+                        &lt;img class="usa-media-block__img" src="circle-124.png" alt="Alt text"&gt;
+                        &lt;div class="usa-media-block__body"&gt;
+                            &lt;h2 class="usa-graphic-list__heading"&gt;Stick to 6 or fewer words.&lt;/h2&gt;
+                            &lt;p&gt;Keep body text to about 30 words. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class="usa-graphic-list__row grid-row grid-gap"&gt;
+                    &lt;div class="usa-media-block tablet:grid-col"&gt;
+                        &lt;img class="usa-media-block__img" src="circle-124.png" alt="Alt text"&gt;
+                        &lt;div class="usa-media-block__body"&gt;
+                            &lt;h2 class="usa-graphic-list__heading"&gt;Never highlight anything without a goal.&lt;/h2&gt;
+                            &lt;p&gt;For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class="usa-media-block tablet:grid-col"&gt;
+                        &lt;img class="usa-media-block__img" src="circle-124.png" alt="Alt text"&gt;
+                        &lt;div class="usa-media-block__body"&gt;
+                            &lt;h2 class="usa-graphic-list__heading"&gt;Could also have 2 or 6.&lt;/h2&gt;
+                            &lt;p&gt;In addition to your goal, find out your users’ goals. What do they want to know or do that supports your mission? Use these headings to show those.&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;section id="test-section-id" class="usa-section"&gt;
+            &lt;div class="grid-container"&gt;
+                &lt;h2 class="font-heading-xl margin-y-0"&gt;Section heading&lt;/h2&gt;
+                &lt;p class="usa-intro"&gt;Everything up to this point should help people understand your agency or project: who you are, your goal or mission, and how you approach it. Use this section to encourage them to act. Describe why they should get in touch here, and use
+                    an active verb on the button below. “Get in touch,” “Learn more,” and so on.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+    &lt;/main&gt;
+
+    &lt;footer class="usa-footer"&gt;
+        &lt;div class="grid-container usa-footer__return-to-top"&gt;&lt;/div&gt;
+
+        &lt;div class="usa-footer__secondary-section"&gt;
+            &lt;div class="grid-container"&gt;
+                &lt;div class="grid-row grid-gap"&gt;
+                    &lt;div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2"&gt;
+                        &lt;div class="mobile-lg:grid-col-auto"&gt;
+                            &lt;img class="usa-footer__logo-img" src="logo-img.png" alt=""&gt;
+                        &lt;/div&gt;
+                        &lt;div class="mobile-lg:grid-col-auto"&gt;
+                            &lt;h3 class="usa-footer__logo-heading"&gt;Name of Agency&lt;/h3&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/footer&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+
+]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1832059041</payload_hash>
+        <record_name>USWDS Homepage Widget</record_name>
+        <reverted_from/>
+        <source>25aebd0ddba45010280df36f299619f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:29:51</sys_created_on>
+        <sys_id>380f754ddba45010280df36f2996198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d0dbb4530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:29:51</sys_updated_on>
+        <type>Widget</type>
+        <update_guid>700f754d37a4501015aeede213d9028b</update_guid>
+        <update_guid_history>700f754d37a4501015aeede213d9028b:-1832059041,e6c6e27f17d0101011076fae4561bba1:-1075372825,df96667fbcd01010555f00ec41131b1a:852853352,e7290e3bc8901010a1bb5bf1ae7b09ec:-479813994,2b18023b4b901010ce9464791a20f905:1450892154,d2f746f79b901010c9a55edab08e7217:-764854258,dee7c2f7a5901010106d5b4d92973b25:114879283,c7b74ef7fc9010108525f08f0735fd6e:-1445960456,31778af741901010480c662b8f973ee7:-410149028,44a402770190101094399178729adb30:1809295355,2f64427773901010cb2e4c8e34c7e474:-1171144555,c134ce3784901010fbfc438864303745:-746490342,51044e37f1901010888fb756e3f2af48:1996476406,f9324af39e901010c5afd4f492bf3b03:-901549546,598006b3ca901010f21a9daddf1011db:-1845841584,3d5042b3ea9010105d282b5ea3f6307a:938200881,7720ca7355901010e286f9fe81e7f714:1722328579,500fb17337901010b63d35e2b61f7a8f:-901549546,34eeb933a39010109de1e7d158e33e42:1315041246,0fbeb133b29010104d456ae83e23c025:42285778,bdae3dff3a501010afe63a8ff8580416:-1872721507,1d7eb133f0901010a439824bd95e861a:-1826308895,4a4c31ffba50101024e66d0c4dd99743:-901549546,e9db31ff8c50101079a087e843fbca5d:-1872721507,21abb93fba5010105e26f850526039c2:42285778,2f73f1bb27501010bec2e85cfe50627c:1315041246,5972797bbe501010f881f13c72400b48:751401369,6d227d3bc3501010449cca6480a56411:386688085,072425ff6510101057d99d2b833f7c9e:-620308813,02d3367226d01010dd30c110fc49d89b:-1350102916,a6a3367208d01010582535825811c991:304594442,f643327253d01010402dc82387b0cbae:-1350102916,4bb032fe1090101079818a35fdcde584:108545392</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="USWDS Homepage Widget">e60b5accdbf49010280df36f2996190c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 01:14:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_widget">sp_widget</sys_db_object>
+        <sys_id>7f302e6070b3472a8e84386132337909</sys_id>
+        <sys_metadata>03b0b27adb901010280df36f2996190f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>USWDS Homepage Widget</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sp_widget_03b0b27adb901010280df36f2996190f</sys_update_name>
+        <sys_update_version display_value="sp_widget_03b0b27adb901010280df36f2996190f">380f754ddba45010280df36f2996198b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 01:14:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
