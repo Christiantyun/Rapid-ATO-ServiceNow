@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Systems " max_length="40" name="x_415531_rapid_ato_systems" sizeclass="3" type="collection">
+    <element extends="task" label="Systems " max_length="40" name="x_415531_rapid_ato_systems" sizeclass="4" type="collection">
         <element label="Business Owner" mandatory="true" max_length="40" name="business_owner" type="string"/>
         <element choice="1" label="FISMA Category of the IT Solution" mandatory="true" max_length="40" name="fisma_category_of_the_it_solution" type="choice">
             <choice>
@@ -8,6 +8,7 @@
                 <element inactive_on_update="false" label="High" sequence="2" value="High"/>
             </choice>
         </element>
+        <element label="Has Arch" max_length="40" name="has_arch" type="boolean"/>
         <element label="ISSO Assigned for ATO Process (Optional)" max_length="4000" name="isso_assigned_for_ato_process_optional" type="string"/>
         <element label="System Description" mandatory="true" max_length="4000" name="system_description" type="string"/>
         <element label="System Name" mandatory="true" max_length="40" name="system_name" type="string"/>
