@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="SSP_ARS" max_length="40" name="x_415531_rapid_ato_ssp_arch" sizeclass="411" type="collection">
+        <element choice="1" label="Allocation Status" max_length="40" name="allocation_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Allocated" sequence="0" value="Allocated"/>
+                <element inactive_on_update="false" label="Not Applicable" sequence="0" value="Not Applicable"/>
+                <element inactive_on_update="false" label="Not Inherited" sequence="0" value="Not inherited"/>
+                <element inactive_on_update="false" label="Inherited" sequence="1" value="Inherited"/>
+            </choice>
+        </element>
+        <element label="Architecture" max_length="32" name="architecture" reference="x_415531_rapid_ato_architecture" type="reference"/>
+        <element label="ARS" max_length="32" name="ars" reference="x_415531_rapid_ato_ars_3_1" type="reference"/>
+        <element label="Control Name" max_length="40" name="control_name" reference="x_415531_rapid_ato_systems" type="string"/>
+        <element choice="1" label="Hybrid Control" max_length="40" name="hybrid_control" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element choice="1" label="Inheritable" max_length="40" name="inheritable" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Overall Assessment Date" max_length="40" name="overall_assessment_date" type="string"/>
+        <element choice="1" default="Not Satisfied" label="Overall Control Status" max_length="40" name="overall_control_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Applicable" sequence="0" value="Not Applicable"/>
+                <element inactive_on_update="false" label="Not Satisfied" sequence="0" value="Not Satisfied"/>
+                <element inactive_on_update="false" label="Other Than Satisfied" sequence="0" value="Other Than Satisfied"/>
+                <element inactive_on_update="false" label="Partially Satisfied" sequence="1" value="Partially Satisfied"/>
+                <element inactive_on_update="false" label="Satisfied" sequence="2" value="Satisfied"/>
+            </choice>
+        </element>
+        <element label="Private Implementation Details" max_length="4000" name="private_implementation_details" type="string"/>
+        <element label="Reason for De-allocation" max_length="40" name="reason_for_de_allocation" type="string"/>
+        <element label="Shared Implementation" max_length="32" name="shared_implementation" read_only="true" reference="x_415531_rapid_ato_systems" type="glide_list"/>
+        <element label="SSP Table" max_length="32" name="ssp_table" reference="x_415531_rapid_ato_application_ssp_table" type="reference"/>
+    </element>
+</database>
