@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="SSP_ARS_Import" max_length="40" name="x_415531_rapid_ato_ssp_ars_import" sizeclass="822" type="collection">
+    <element extends="sys_import_set_row" label="SSP_ARS_Import" max_length="40" name="x_415531_rapid_ato_ssp_ars_import" sizeclass="1311" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Allocation Status" label="Allocation Status" max_length="40" name="u_allocation_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ARS_ID" max_length="40" name="u_ars_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assessment Methods and Objects" max_length="40" name="u_assessment_m_ds_and_objects" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assessment Objective" max_length="40" name="u_assessment_objective" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assurance" max_length="40" name="u_assurance" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Baseline" max_length="40" name="u_baseline" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Control" max_length="40" name="u_control" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Control Family" max_length="40" name="u_control_family" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Control Name" label="Control Name" max_length="80" name="u_control_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Control Number" max_length="40" name="u_control_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Control Number Combo" label="Control Number Combo" max_length="40" name="u_control_number_combo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Control Type" max_length="40" name="u_control_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Group ID" max_length="40" name="u_group_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="High" max_length="40" name="u_high" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Hybrid Control" label="Hybrid Control" max_length="40" name="u_hybrid_control" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Implementation Standards" max_length="40" name="u_implementation_standards" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Inheritable" label="Inheritable" max_length="40" name="u_inheritable" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Low" max_length="40" name="u_low" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Moderate" max_length="40" name="u_moderate" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Overall Assessment Date" label="Overall Assessment Date" max_length="40" name="u_overall_assessment_date" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Overall Control Status" label="Overall Control Status" max_length="40" name="u_overall_control_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Priority" max_length="40" name="u_priority" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Private Implementation Details Updated Date" label="Private Implementation Details Updated Date" max_length="40" name="u_private_impl_s_updated_date" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Private Implementation Details" label="Private Implementation Details" max_length="11409" name="u_private_impl_tation_details" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Reason for De-allocation" label="Reason for De-allocation" max_length="182" name="u_reason_for_de_allocation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reference Policy" max_length="40" name="u_reference_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Related Controls" max_length="40" name="u_related_controls" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="SSP_Table" max_length="40" name="u_ssp_table" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Standard" max_length="40" name="u_standard" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplemental Guidance" max_length="40" name="u_supplemental_guidance" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=System" label="System" max_length="40" name="u_system" type="string"/>
     </element>
 </database>

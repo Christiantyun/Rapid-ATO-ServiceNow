@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Control Family Import" max_length="40" name="x_415531_rapid_ato_control_family_import" sizeclass="466" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=control_family" label="control_family" max_length="40" name="u_control_family" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=control_name" label="control_name" max_length="40" name="u_control_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=control_number" label="control_number" max_length="40" name="u_control_number" type="string"/>
+    </element>
+</database>

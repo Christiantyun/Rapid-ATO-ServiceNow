@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="SSP_ARS" max_length="40" name="x_415531_rapid_ato_ssp_arch" sizeclass="411" type="collection">
+    <element extends="task" label="SSP_ARS" max_length="40" name="x_415531_rapid_ato_ssp_arch" sizeclass="489" type="collection">
         <element choice="1" label="Allocation Status" max_length="40" name="allocation_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Allocated" sequence="0" value="Allocated"/>
@@ -9,7 +9,7 @@
             </choice>
         </element>
         <element label="Architecture" max_length="32" name="architecture" reference="x_415531_rapid_ato_architecture" type="reference"/>
-        <element label="ARS" max_length="32" name="ars" reference="x_415531_rapid_ato_ars_3_1" type="reference"/>
+        <element label="ARS Controls" max_length="32" name="ars" reference="x_415531_rapid_ato_ars_3_1" type="reference"/>
         <element label="Control Name" max_length="40" name="control_name" reference="x_415531_rapid_ato_systems" type="string"/>
         <element choice="1" label="Hybrid Control" max_length="40" name="hybrid_control" type="choice">
             <choice>

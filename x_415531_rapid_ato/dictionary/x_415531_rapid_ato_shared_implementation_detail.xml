@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Shared Implementation Detail" max_length="40" name="x_415531_rapid_ato_shared_implementation_detail" sizeclass="1" type="collection">
+        <element label="Shared Implementation Detail" max_length="4000" name="shared_implementation_detail" type="string"/>
+        <element label="SSP_ARS" max_length="32" name="ssp_ars" reference="x_415531_rapid_ato_ssp_arch" type="reference"/>
+    </element>
+</database>

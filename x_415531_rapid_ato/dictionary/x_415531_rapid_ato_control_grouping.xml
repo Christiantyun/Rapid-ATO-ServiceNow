@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Control Grouping" max_length="40" name="x_415531_rapid_ato_control_grouping" sizeclass="233" type="collection">
+        <element label="Application SSP Table" max_length="32" name="application_ssp_table" reference="x_415531_rapid_ato_application_ssp_table" type="reference"/>
+        <element label="ARS Controls" max_length="32" name="ars_controls" reference="x_415531_rapid_ato_ars_3_1" type="reference"/>
+        <element choice="1" label="Overall Status" max_length="40" name="overall_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Satisfied" sequence="0" value="Satisfied"/>
+                <element inactive_on_update="false" label="Not Satisfied" sequence="1" value="Not Satisfied"/>
+            </choice>
+        </element>
+        <element label="SSP_ARS" max_length="32" name="ssp_ars" reference="x_415531_rapid_ato_ssp_arch" type="reference"/>
+    </element>
+</database>

@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>ARS</column_label>
+        <column_label>ARS Controls</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-29 16:01:30</sys_created_on>
         <sys_id>b2a2de0adb011010280df36f29961910</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>ARS</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ARS Controls</sys_name>
         <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
         <sys_update_name>sys_dictionary_x_415531_rapid_ato_ssp_arch_ars</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-01 14:43:36</sys_updated_on>
+        <sys_updated_on>2020-06-02 18:17:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

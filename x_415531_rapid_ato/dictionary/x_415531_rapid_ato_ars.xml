@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="ARS" max_length="40" name="x_415531_rapid_ato_ars" sizeclass="2" type="collection">
+        <element label="ARS Created Date" max_length="40" name="ars_created_date" type="glide_date"/>
+        <element display="true" label="ARS Name" max_length="40" name="ars_name" type="string"/>
+        <element label="ARS Version" max_length="40" name="ars_version" type="string"/>
+        <element label="IsValid" max_length="40" name="isvalid" type="boolean"/>
+    </element>
+</database>
