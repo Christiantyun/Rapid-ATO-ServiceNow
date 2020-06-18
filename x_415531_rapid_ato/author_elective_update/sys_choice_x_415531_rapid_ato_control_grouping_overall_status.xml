@@ -4,7 +4,26 @@
             <dependent_value/>
             <element>overall_status</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
+            <label>Satisfied</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_control_grouping</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:24:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f600818db6d1010280df36f29961917</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 21:04:28</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_status</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Satisfied</label>
             <language>en</language>
             <name>x_415531_rapid_ato_control_grouping</name>
@@ -14,16 +33,35 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ad42c0fbdb411010280df36f299619b5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-03 15:59:33</sys_updated_on>
+            <sys_updated_on>2020-06-17 15:24:09</sys_updated_on>
             <value>Satisfied</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>overall_status</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
+            <label>Not Satisfied</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_control_grouping</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:24:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab600818db6d1010280df36f29961919</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 21:04:28</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_status</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Not Satisfied</label>
             <language>en</language>
             <name>x_415531_rapid_ato_control_grouping</name>
@@ -33,10 +71,29 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2142c0fbdb411010280df36f299619b8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-03 15:59:33</sys_updated_on>
+            <sys_updated_on>2020-06-17 15:24:09</sys_updated_on>
             <value>Not Satisfied</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Partially Satisfied</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_control_grouping</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:24:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7600818db6d1010280df36f2996191b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 21:04:28</sys_updated_on>
+            <value>3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>overall_status</element>

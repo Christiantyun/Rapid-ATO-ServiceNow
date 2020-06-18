@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="SSP_ARS_Import" max_length="40" name="x_415531_rapid_ato_ssp_ars_import" sizeclass="1311" type="collection">
+    <element extends="sys_import_set_row" label="SSP_ARS_Import" max_length="40" name="x_415531_rapid_ato_ssp_ars_import" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Allocation Status" label="Allocation Status" max_length="40" name="u_allocation_status" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="ARS_ID" max_length="40" name="u_ars_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Assessment Methods and Objects" max_length="40" name="u_assessment_m_ds_and_objects" type="string"/>

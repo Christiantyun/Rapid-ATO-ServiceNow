@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="ARS Controls" max_length="40" name="x_415531_rapid_ato_ars_3_1" sizeclass="489" type="collection">
+    <element extends="task" label="ARS Controls" max_length="40" name="x_415531_rapid_ato_ars_3_1" sizeclass="478" type="collection">
         <element label="ARS ID" max_length="32" name="ars_id" reference="x_415531_rapid_ato_ars" type="reference"/>
         <element label="Assessment Methods and Objects" max_length="40" name="assessment_methods_and_objects" type="string"/>
         <element label="Assessment Objective" max_length="40" name="assessment_objective" type="string"/>
         <element label="Assurance" max_length="40" name="assurance" type="string"/>
         <element label="Baseline" max_length="40" name="baseline" type="string"/>
-        <element label="Control Definition" max_length="40" name="control_definition" type="string"/>
+        <element label="Control Definition" max_length="800" name="control_definition" type="string"/>
         <element label="Control Family" max_length="32" name="control_family" reference="x_415531_rapid_ato_control_fam" type="reference"/>
-        <element label="Control Name" max_length="40" name="control_name" type="string"/>
+        <element label="Control Name" max_length="90" name="control_name" type="string"/>
         <element display="true" label="Control Number" max_length="40" name="control_number" type="string"/>
         <element label="Control Type" max_length="40" name="control_type" type="string"/>
         <element label="Group ID" max_length="40" name="group_id" type="string"/>
         <element label="High" max_length="40" name="high" type="boolean"/>
-        <element label="Implementation Standards" max_length="40" name="implementation_standards" type="string"/>
+        <element label="Implementation Standards" max_length="200" name="implementation_standards" type="string"/>
         <element label="Low" max_length="40" name="low" type="boolean"/>
         <element label="Moderate" max_length="40" name="moderate" type="boolean"/>
-        <element label="Reference Policy" max_length="40" name="reference_policy" type="string"/>
+        <element label="Reference Policy" max_length="300" name="reference_policy" type="string"/>
         <element label="Related Controls" max_length="40" name="related_controls" type="string"/>
         <element label="Standard" max_length="40" name="standard" type="string"/>
-        <element label="Supplemental Guidance" max_length="40" name="supplemental_guidance" type="string"/>
+        <element label="Supplemental Guidance" max_length="500" name="supplemental_guidance" type="string"/>
     </element>
 </database>

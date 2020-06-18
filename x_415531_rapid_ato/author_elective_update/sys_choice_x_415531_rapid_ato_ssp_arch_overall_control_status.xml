@@ -5,6 +5,25 @@
             <element>overall_control_status</element>
             <hint/>
             <inactive>false</inactive>
+            <label>9 - Not Applicable</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:21:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fcf3308db6d1010280df36f299619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:25</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Not Applicable</label>
             <language>en</language>
             <name>x_415531_rapid_ato_ssp_arch</name>
@@ -14,16 +33,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9acd5e42db411010280df36f29961989</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-29 16:49:38</sys_updated_on>
+            <sys_updated_on>2020-06-17 15:21:26</sys_updated_on>
             <value>Not Applicable</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>overall_control_status</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Not Satisfied</label>
             <language>en</language>
             <name>x_415531_rapid_ato_ssp_arch</name>
@@ -33,9 +52,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>26c934b9db011010280df36f29961911</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-28 14:54:15</sys_updated_on>
+            <sys_updated_on>2020-06-15 17:27:21</sys_updated_on>
             <value>Not Satisfied</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -43,25 +62,44 @@
             <element>overall_control_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Other Than Satisfied</label>
+            <label>1 - Allocated</label>
             <language>en</language>
             <name>x_415531_rapid_ato_ssp_arch</name>
-            <sequence>0</sequence>
+            <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-29 16:49:39</sys_created_on>
+            <sys_created_on>2020-06-17 15:21:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a6cd5e42db411010280df36f299619c2</sys_id>
+            <sys_id>afcf3308db6d1010280df36f299619b6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-29 16:49:39</sys_updated_on>
-            <value>Other Than Satisfied</value>
+            <sys_updated_on>2020-06-17 15:21:25</sys_updated_on>
+            <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>overall_control_status</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
+            <label>Allocated</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-15 17:27:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e879822bdb911010280df36f2996193b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:26</sys_updated_on>
+            <value>Allocated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Partially Satisfied</label>
             <language>en</language>
             <name>x_415531_rapid_ato_ssp_arch</name>
@@ -71,9 +109,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a2c934b9db011010280df36f29961913</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-28 14:54:15</sys_updated_on>
+            <sys_updated_on>2020-06-15 17:27:21</sys_updated_on>
             <value>Partially Satisfied</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -81,18 +119,151 @@
             <element>overall_control_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Satisfied</label>
+            <label>6 - Partially Documented</label>
             <language>en</language>
             <name>x_415531_rapid_ato_ssp_arch</name>
             <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:21:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fcf3308db6d1010280df36f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:25</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Partially Documented</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-15 17:27:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6879822bdb911010280df36f2996193d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:26</sys_updated_on>
+            <value>Partially Documented</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7 - Fully Documented</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:21:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fcf3308db6d1010280df36f299619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:25</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Fully Documented</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-15 17:27:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a479822bdb911010280df36f2996193f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:26</sys_updated_on>
+            <value>Fully Documented</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Other Than Satisfied</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:21:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebcf3308db6d1010280df36f299619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:25</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Other Than Satisfied</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-29 16:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6cd5e42db411010280df36f299619c2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:26</sys_updated_on>
+            <value>Other Than Satisfied</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8 - Satisfied</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-17 15:21:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abcf3308db6d1010280df36f299619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:21:26</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>overall_control_status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Satisfied</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_ssp_arch</name>
+            <sequence>5</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-05-28 14:54:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>6ec934b9db011010280df36f29961914</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-28 14:54:15</sys_updated_on>
+            <sys_updated_on>2020-06-17 15:21:26</sys_updated_on>
             <value>Satisfied</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

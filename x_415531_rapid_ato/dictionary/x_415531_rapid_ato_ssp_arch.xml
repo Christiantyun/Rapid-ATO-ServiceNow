@@ -1,36 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="SSP_ARS" max_length="40" name="x_415531_rapid_ato_ssp_arch" sizeclass="489" type="collection">
+    <element extends="task" label="SSP_ARS" max_length="40" name="x_415531_rapid_ato_ssp_arch" sizeclass="956" type="collection">
         <element choice="1" label="Allocation Status" max_length="40" name="allocation_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Allocated" sequence="0" value="Allocated"/>
-                <element inactive_on_update="false" label="Not Applicable" sequence="0" value="Not Applicable"/>
-                <element inactive_on_update="false" label="Not Inherited" sequence="0" value="Not inherited"/>
-                <element inactive_on_update="false" label="Inherited" sequence="1" value="Inherited"/>
+                <element inactive_on_update="false" label="Not Applicable" sequence="1" value="Not Applicable"/>
+                <element inactive_on_update="false" label="Not Inherited" sequence="2" value="Not inherited"/>
+                <element inactive_on_update="false" label="Inherited" sequence="3" value="Inherited"/>
             </choice>
         </element>
         <element label="Architecture" max_length="32" name="architecture" reference="x_415531_rapid_ato_architecture" type="reference"/>
         <element label="ARS Controls" max_length="32" name="ars" reference="x_415531_rapid_ato_ars_3_1" type="reference"/>
         <element label="Control Name" max_length="40" name="control_name" reference="x_415531_rapid_ato_systems" type="string"/>
-        <element choice="1" label="Hybrid Control" max_length="40" name="hybrid_control" type="choice">
+        <element label="Group ID" max_length="40" name="group_id" type="string"/>
+        <element choice="1" default="No" label="Hybrid Control" max_length="40" name="hybrid_control" type="choice">
             <choice>
+                <element inactive="true" inactive_on_update="true" label="False" sequence="0" value="True"/>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
                 <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive="true" inactive_on_update="true" label="True" sequence="1" value="False"/>
             </choice>
         </element>
-        <element choice="1" label="Inheritable" max_length="40" name="inheritable" type="choice">
+        <element choice="1" default="No" label="Inheritable" max_length="40" name="inheritable" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
                 <element inactive_on_update="false" label="No" sequence="1" value="No"/>
             </choice>
         </element>
         <element label="Overall Assessment Date" max_length="40" name="overall_assessment_date" type="string"/>
-        <element choice="1" default="Not Satisfied" label="Overall Control Status" max_length="40" name="overall_control_status" type="choice">
+        <element choice="1" label="Overall Control Status" max_length="40" name="overall_control_status" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Not Applicable" sequence="0" value="Not Applicable"/>
-                <element inactive_on_update="false" label="Not Satisfied" sequence="0" value="Not Satisfied"/>
-                <element inactive_on_update="false" label="Other Than Satisfied" sequence="0" value="Other Than Satisfied"/>
-                <element inactive_on_update="false" label="Partially Satisfied" sequence="1" value="Partially Satisfied"/>
-                <element inactive_on_update="false" label="Satisfied" sequence="2" value="Satisfied"/>
+                <element inactive_on_update="false" label="9 - Not Applicable" sequence="0" value="9"/>
+                <element inactive="true" inactive_on_update="true" label="Not Applicable" sequence="0" value="Not Applicable"/>
+                <element inactive="true" inactive_on_update="true" label="Not Satisfied" sequence="0" value="Not Satisfied"/>
+                <element inactive_on_update="false" label="1 - Allocated" sequence="1" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="Allocated" sequence="1" value="Allocated"/>
+                <element inactive="true" inactive_on_update="true" label="Partially Satisfied" sequence="1" value="Partially Satisfied"/>
+                <element inactive_on_update="false" label="6 - Partially Documented" sequence="2" value="6"/>
+                <element inactive="true" inactive_on_update="true" label="Partially Documented" sequence="2" value="Partially Documented"/>
+                <element inactive_on_update="false" label="7 - Fully Documented" sequence="3" value="7"/>
+                <element inactive="true" inactive_on_update="true" label="Fully Documented" sequence="3" value="Fully Documented"/>
+                <element inactive_on_update="false" label="5 - Other Than Satisfied" sequence="4" value="5"/>
+                <element inactive="true" inactive_on_update="true" label="Other Than Satisfied" sequence="4" value="Other Than Satisfied"/>
+                <element inactive_on_update="false" label="8 - Satisfied" sequence="5" value="8"/>
+                <element inactive="true" inactive_on_update="true" label="Satisfied" sequence="5" value="Satisfied"/>
             </choice>
         </element>
         <element label="Private Implementation Details" max_length="4000" name="private_implementation_details" type="string"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Systems " max_length="40" name="x_415531_rapid_ato_systems" sizeclass="2" type="collection">
+    <element extends="task" label="Systems " max_length="40" name="x_415531_rapid_ato_systems" sizeclass="3" type="collection">
         <element label="ARS" mandatory="true" max_length="32" name="ars" reference="x_415531_rapid_ato_ars" type="reference"/>
         <element label="Business Owner" mandatory="true" max_length="40" name="business_owner" type="string"/>
         <element choice="1" label="FISMA Category of the IT Solution" mandatory="true" max_length="40" name="fisma_category_of_the_it_solution" type="choice">
@@ -9,7 +9,7 @@
                 <element inactive_on_update="false" label="High" sequence="2" value="High"/>
             </choice>
         </element>
-        <element label="Has Arch" max_length="40" name="has_arch" type="boolean"/>
+        <element default="true" label="Has Arch" max_length="40" name="has_arch" type="boolean"/>
         <element choice="1" label="Hybrid Control" max_length="40" name="hybrid_control" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
