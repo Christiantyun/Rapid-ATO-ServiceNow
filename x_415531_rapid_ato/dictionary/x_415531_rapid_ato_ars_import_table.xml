@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="ARS Import Table" max_length="40" name="x_415531_rapid_ato_ars_import_table" sizeclass="3390" type="collection">
+    <element extends="sys_import_set_row" label="ARS Import Table" max_length="40" name="x_415531_rapid_ato_ars_import_table" sizeclass="1467" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=ARS_ID" label="ARS_ID" max_length="40" name="u_ars_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Assessment Methods and Objects" label="Assessment Methods and Objects" max_length="4332" name="u_assessment_m_ds_and_objects" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Assessment Objective" label="Assessment Objective" max_length="1750" name="u_assessment_objective" type="string"/>

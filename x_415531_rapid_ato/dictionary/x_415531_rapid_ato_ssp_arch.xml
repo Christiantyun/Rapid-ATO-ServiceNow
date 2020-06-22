@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="SSP_ARS" max_length="40" name="x_415531_rapid_ato_ssp_arch" sizeclass="956" type="collection">
+    <element extends="task" label="SSP_ARS" max_length="40" name="x_415531_rapid_ato_ssp_arch" sizeclass="1912" type="collection">
         <element choice="1" label="Allocation Status" max_length="40" name="allocation_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Allocated" sequence="0" value="Allocated"/>
@@ -26,6 +26,7 @@
                 <element inactive_on_update="false" label="No" sequence="1" value="No"/>
             </choice>
         </element>
+        <element label="Last Implemented Date" max_length="40" name="last_implemented_date" type="string"/>
         <element label="Overall Assessment Date" max_length="40" name="overall_assessment_date" type="string"/>
         <element choice="1" label="Overall Control Status" max_length="40" name="overall_control_status" type="choice">
             <choice>

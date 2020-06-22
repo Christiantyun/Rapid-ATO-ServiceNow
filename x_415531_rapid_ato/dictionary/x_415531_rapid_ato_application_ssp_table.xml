@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Application SSP Table" max_length="40" name="x_415531_rapid_ato_application_ssp_table" sizeclass="3" type="collection">
+    <element extends="task" label="Application SSP Table" max_length="40" name="x_415531_rapid_ato_application_ssp_table" sizeclass="4" type="collection">
         <element label="Chief Information Officer (CIO)" max_length="40" name="chief_information_officer_cio" type="string"/>
         <element label="SSP Creation Date" max_length="40" name="ssp_creation_date" type="glide_date"/>
         <element label="SSP Review Date" max_length="40" name="ssp_review_date" type="glide_date"/>

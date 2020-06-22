@@ -2,7 +2,7 @@
     <element extends="task" label="ARS Controls" max_length="40" name="x_415531_rapid_ato_ars_3_1" sizeclass="478" type="collection">
         <element label="ARS ID" max_length="32" name="ars_id" reference="x_415531_rapid_ato_ars" type="reference"/>
         <element label="Assessment Methods and Objects" max_length="40" name="assessment_methods_and_objects" type="string"/>
-        <element label="Assessment Objective" max_length="40" name="assessment_objective" type="string"/>
+        <element label="Assessment Objective" max_length="200" name="assessment_objective" type="string"/>
         <element label="Assurance" max_length="40" name="assurance" type="string"/>
         <element label="Baseline" max_length="40" name="baseline" type="string"/>
         <element label="Control Definition" max_length="800" name="control_definition" type="string"/>

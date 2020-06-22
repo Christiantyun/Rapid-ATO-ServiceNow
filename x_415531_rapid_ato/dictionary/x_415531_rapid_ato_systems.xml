@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Systems " max_length="40" name="x_415531_rapid_ato_systems" sizeclass="3" type="collection">
-        <element label="ARS" mandatory="true" max_length="32" name="ars" reference="x_415531_rapid_ato_ars" type="reference"/>
+    <element extends="task" label="Systems " max_length="40" name="x_415531_rapid_ato_systems" sizeclass="4" type="collection">
+        <element default="43903e93dbcd1010280df36f299619aa" label="ARS" mandatory="true" max_length="32" name="ars" reference="x_415531_rapid_ato_ars" type="reference"/>
         <element label="Business Owner" mandatory="true" max_length="40" name="business_owner" type="string"/>
         <element choice="1" label="FISMA Category of the IT Solution" mandatory="true" max_length="40" name="fisma_category_of_the_it_solution" type="choice">
             <choice>
@@ -22,7 +22,7 @@
                 <element inactive_on_update="false" label="No" sequence="1" value="No"/>
             </choice>
         </element>
-        <element label="ISSO Assigned for ATO Process (Optional)" max_length="4000" name="isso_assigned_for_ato_process_optional" type="string"/>
+        <element label="ISSO Assigned for ATO Process" max_length="4000" name="isso_assigned_for_ato_process_optional" type="string"/>
         <element choice="1" label="Overall Control Status" max_length="40" name="overall_control_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Not Satisfied" sequence="0" value="Not Satisfied"/>
