@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Status" section_id="92da6b3fdb941010280df36f29961919" sys_domain="global" table="x_415531_rapid_ato_controls" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 02:09:42</sys_created_on>
+            <sys_id>aa1b2f3fdb941010280df36f29961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Status" display_value="Status" name="x_415531_rapid_ato_controls" sys_domain="global" view="Default view">92da6b3fdb941010280df36f29961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 02:09:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>allocation_status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 02:09:42</sys_created_on>
+            <sys_id>221b2f3fdb941010280df36f29961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Status" display_value="Status" name="x_415531_rapid_ato_controls" sys_domain="global" view="Default view">92da6b3fdb941010280df36f29961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 02:09:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Status</caption>
+            <header>false</header>
+            <name>x_415531_rapid_ato_controls</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 02:08:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92da6b3fdb941010280df36f29961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Status</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+            <sys_update_name>sys_ui_section_92da6b3fdb941010280df36f29961919</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 02:08:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_ui_section_92da6b3fdb941010280df36f29961919</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Status" section_id="92da6b3fdb941010280df36f29961919" sys_domain="global" table="x_415531_rapid_ato_controls" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 02:09:42</sys_created_on><sys_id>aa1b2f3fdb941010280df36f29961994</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Status" display_value="Status" name="x_415531_rapid_ato_controls" sys_domain="global" view="Default view">92da6b3fdb941010280df36f29961919</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 02:09:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>allocation_status</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 02:09:42</sys_created_on><sys_id>221b2f3fdb941010280df36f29961995</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Status" display_value="Status" name="x_415531_rapid_ato_controls" sys_domain="global" view="Default view">92da6b3fdb941010280df36f29961919</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 02:09:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Status</caption><header>false</header><name>x_415531_rapid_ato_controls</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 02:08:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>92da6b3fdb941010280df36f29961919</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Status</sys_name><sys_overrides/><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sys_ui_section_92da6b3fdb941010280df36f29961919</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 02:08:35</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-860718566</payload_hash>
+        <record_name>Controls</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 02:09:42</sys_created_on>
+        <sys_id>2e1b2f3fdb941010280df36f29961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171be8c0fe80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 02:09:42</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>261b2f3f909410107c67825db9301f96</update_guid>
+        <update_guid_history>261b2f3f909410107c67825db9301f96:-860718566,5ada6b3ff2941010db221f1f95333ca0:468868625</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:12:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>44215729088e47cc8dfea24862edb7c4</sys_id>
+        <sys_metadata>92da6b3fdb941010280df36f29961919</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent display_value="">d5a90a76db501010280df36f299619c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sys_ui_section_92da6b3fdb941010280df36f29961919</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_92da6b3fdb941010280df36f29961919">2e1b2f3fdb941010280df36f29961996</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:12:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

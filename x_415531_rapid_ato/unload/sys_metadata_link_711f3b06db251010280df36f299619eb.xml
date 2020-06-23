@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>43877dfcdb211010280df36f299619ba</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Information security program </assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization establishes an information security workforce development and improvement program.</control_definition>
+        <control_family display_value="Program Management">f6877dfcdb211010280df36f29961975</control_family>
+        <control_name>Information Security Workforce</control_name>
+        <control_number>PM-13</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>PM-13</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards/>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011238</number>
+        <opened_at>2020-06-19 13:21:32</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>HHS Memorandum: Role-Based Training (RBT) of Personnel with Significant Security Responsibilities; Code: 5 U.S.C. §552a(e)(9)-(10); OMB Memo: M-17-12; OMB Circular A-130: 7.g.; 45 C.F.R. §164.308(a)(2)</reference_policy>
+        <rejection_goto/>
+        <related_controls>AT-2, AT-3</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Information security workforce development and improvement programs include, for example:  (i) Defining the knowledge and skill levels needed to perform information security duties and tasks;  (ii) Developing role-based training programs for individuals assigned information security roles and responsibilities; and  (iii) Providing standards for measuring and building individual qualifications for incumbents and applicants for information security-related positions. Such workforce programs can also include associated information security career paths to encourage:   a. Information security professionals to advance in the field and fill positions with greater responsibility; and   b. Organizations to fill information security-related positions with qualified personnel. Information security workforce development and improvement programs are complementary to organizational security awareness and training programs. Information security workforce development and improvement programs focus on developing and institutionalizing core information security capabilities of selected personnel needed to protect organizational operations, assets, and individuals.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+To implement adequate security controls, the organization’s information security and privacy workforce should be knowledgeable of the applicable privacy and security requirements commensurate with the level of access or responsibility for applying appropriate safeguards. The information security workforce should receive role-based training for the privacy requirements commensurate with the level of access or responsibility for applying safeguards to personally identifiable information (PII).</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:32</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>43877dfcdb211010280df36f299619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:32</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:09</sys_created_on>
+        <sys_id>711f3b06db251010280df36f299619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PM-13</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_711f3b06db251010280df36f299619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:09</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

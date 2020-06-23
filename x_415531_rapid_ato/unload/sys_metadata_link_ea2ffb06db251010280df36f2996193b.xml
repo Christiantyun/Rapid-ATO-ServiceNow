@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>b987f9fcdb211010280df36f299619bb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Information system media prot</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization, in accordance with the latest revision of NIST SP 800-88, Guidelines for Media Sanitization, and HHS IS2P Appendix I: a. Sanitizes both digital and non-digital information system media prior to disposal, release out of organizational control, or release for reuse using defined sanitization techniques and procedures (defined in the applicable security plan) in accordance with applicable federal and organizational standards and policies; and b. Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.&#13;
+&#13;
+Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The organization sanitizes digital media that contains personally identifiable information (PII) prior to disposal, release out of organizational control, or release for reuse using FIPS-validated media sanitization techniques or procedures in accordance with applicable federal and organizational standards and policies.&#13;
+&#13;
+Systems processing, storing, or transmitting PHI:&#13;
+&#13;
+The organization sanitizes digital media that contains protected health information (PHI) prior to disposal, release out of organizational control, or release for reuse using FIPS-validated media sanitization techniques or procedures in accordance with applicable federal and organizational standards and policies.&#13;
+&#13;
+Systems defined as CSPs:&#13;
+&#13;
+For CSPs, the hypervisor enforces sanitization of the instance (container) image file space upon release:   - Sanitization of released space is compliant with NIST SP 800-88, as amended, guidance.</control_definition>
+        <control_family display_value="Media Protection">ed87f9fcdb211010280df36f299619af</control_family>
+        <control_name>Media Sanitization</control_name>
+        <control_number>MP-06</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>MP-06</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>High &amp; Moderate:&#13;
+&#13;
+Std.1 - Finely shred, using a minimum of cross-cut shredding, hard-copy documents, using approved equipment, techniques, and procedures.Std.2 - Surplus equipment is stored securely</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011058</number>
+        <opened_at>2020-06-19 13:21:27</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>FedRAMP Rev. 4 Baseline; FIPS Pub: 199; FISCAM: AC-4, AS-2; HIPAA: 45 C.F.R. §164.310(d)(1), 45 C.F.R. §164.310(d)(2)(i); 45 C.F.R. §164.310(d)(2)(iii), 45 C.F.R. §164.312(c)(1), 45 C.F.R. §164.312(d)(2)(ii); NIST SP: 800-60, 800-88; Web: nsa.gov/ia/mitigation_guidance/</reference_policy>
+        <rejection_goto/>
+        <related_controls>MA-2, MA-4, RA-3, SC-4, DM-2</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>This control applies to all information system media, both digital and non-digital, subject to disposal or reuse, whether the media is considered removable. Examples include media found in scanners, copiers, printers, notebook computers, workstations, network components, and mobile devices. The sanitization process removes information from the media such that the information cannot be retrieved or reconstructed. Sanitization techniques, including clearing, purging, cryptographic erase, and destruction, prevent the disclosure of information to unauthorized individuals when such media is reused or released for disposal. Organizations determine the appropriate sanitization methods recognizing that destruction is sometimes necessary when other methods cannot be applied to media requiring sanitization. Organizations use discretion on the employment of approved sanitization techniques and procedures for media containing information deemed to be in the public domain or publicly releasable, or deemed to have no adverse impact on organizations or individuals if released for reuse or disposal. Sanitization of non-digital media includes, for example, removing a classified appendix from an otherwise unclassified document, or redacting selected sections or words from a document by obscuring the redacted sections/words in a manner equivalent in effectiveness to removing them from the document. NSA standards and policies control the sanitization process for media containing classified information.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Properly sanitizing media that contains sensitive information, such as PII, prior to disposal or release protects the information from unauthorized use and disclosure.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:27</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>b987f9fcdb211010280df36f299619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:27</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:29</sys_created_on>
+        <sys_id>ea2ffb06db251010280df36f2996193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MP-06</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_ea2ffb06db251010280df36f2996193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:29</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

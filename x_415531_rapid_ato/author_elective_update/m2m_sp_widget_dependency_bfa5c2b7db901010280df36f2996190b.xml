@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="DELETE">
+        <sp_dependency display_value="uswds.js">c795ce77db901010280df36f2996198c</sp_dependency>
+        <sp_widget display_value="USDA Homepage Widget">03b0b27adb901010280df36f2996190f</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 18:46:36</sys_created_on>
+        <sys_id>bfa5c2b7db901010280df36f2996190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>uswds.js.USDA Homepage Widget</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_bfa5c2b7db901010280df36f2996190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 18:46:36</sys_updated_on>
+    </m2m_sp_widget_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>m2m_sp_widget_dependency_bfa5c2b7db901010280df36f2996190b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency"><m2m_sp_widget_dependency action="INSERT_OR_UPDATE"><sp_dependency display_value="uswds.js">c795ce77db901010280df36f2996198c</sp_dependency><sp_widget display_value="USDA Homepage Widget">03b0b27adb901010280df36f2996190f</sp_widget><sys_class_name>m2m_sp_widget_dependency</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 18:46:36</sys_created_on><sys_id>bfa5c2b7db901010280df36f2996190b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>uswds.js.USDA Homepage Widget</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>m2m_sp_widget_dependency_bfa5c2b7db901010280df36f2996190b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 18:46:36</sys_updated_on></m2m_sp_widget_dependency></record_update>]]></payload>
+        <payload_hash>1735631747</payload_hash>
+        <record_name>uswds.js.USDA Homepage Widget</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 18:46:36</sys_created_on>
+        <sys_id>f7a5c2b7db901010280df36f2996190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171bcf664770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 18:46:36</sys_updated_on>
+        <type>Widget Dependency</type>
+        <update_guid>33a5c2b71e90101094fe739e1e783b0e</update_guid>
+        <update_guid_history>33a5c2b71e90101094fe739e1e783b0e:1735631747</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="uswds.js.USDA Homepage Widget">520b1accdbf49010280df36f299619de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 01:14:04</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_widget_dependency">m2m_sp_widget_dependency</sys_db_object>
+        <sys_id>0d98ebb6b44d4da18cd3eb7a4f794651</sys_id>
+        <sys_metadata>bfa5c2b7db901010280df36f2996190b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>uswds.js.USDA Homepage Widget</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>m2m_sp_widget_dependency_bfa5c2b7db901010280df36f2996190b</sys_update_name>
+        <sys_update_version display_value="m2m_sp_widget_dependency_bfa5c2b7db901010280df36f2996190b">f7a5c2b7db901010280df36f2996190e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 01:14:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

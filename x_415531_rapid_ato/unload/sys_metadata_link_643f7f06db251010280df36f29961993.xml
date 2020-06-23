@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>da873dfcdb211010280df36f29961956</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: System and services acquisiti</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance>Assurance</assurance>
+        <baseline/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization: a. Describes (in the applicable system security plan [SSP]) the trustworthiness required in information systems, information system components, or information system services supporting its essential missions/business functions; and b. Implements a level of security-functionality and security-assurance that is sufficient to preserve the confidentiality, integrity, and availability of the information being processed, stored, or transmitted by the system, by following the CMS eXpedited Life Cycle (XLC) and the system authorization process.</control_definition>
+        <control_family display_value="System and Services Acquisition">9e873dfcdb211010280df36f29961936</control_family>
+        <control_name>Trustworthiness</control_name>
+        <control_number>SA-13</control_number>
+        <control_type>Non-Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>SA-13</group_id>
+        <group_list/>
+        <high>false</high>
+        <impact>3</impact>
+        <implementation_standards/>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>false</low>
+        <made_sla>true</made_sla>
+        <moderate>false</moderate>
+        <number>ARSC0011142</number>
+        <opened_at>2020-06-19 13:21:29</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>1</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>FIPS Pub: 199, 200; NIST SP: 800-60, 800-64; OMB Memo: M-16-04</reference_policy>
+        <rejection_goto/>
+        <related_controls>RA-2, SA-4, SA-8, SA-14, SC-3</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>This control helps organizations to make explicit trustworthiness decisions when designing, developing, and implementing information systems that are needed to conduct critical organizational missions/business functions. Trustworthiness is a characteristic/property of an information system that expresses the degree to which the system can be expected to preserve the confidentiality, integrity, and availability of the information it processes, stores, or transmits. Trustworthy information systems are systems that are capable of being trusted to operate within defined levels of risk despite the environmental disruptions, human errors, and purposeful attacks that are expected to occur in the specified environments of operation. Trustworthy systems are important to mission/business success. Two factors affecting the trustworthiness of information systems include: (i) security functionality (i.e., the security features, functions, and/or mechanisms employed within the system and its environment of operation); and (ii) security assurance (i.e., the grounds for confidence that the security functionality is effective in its application). Developers, implementers, operators, and maintainers of organizational information systems can increase the level of assurance (and trustworthiness), for example, by employing well-defined security policy models, structured and rigorous hardware, software, and firmware development techniques, sound system/security engineering principles, and secure configuration settings (defined by a set of assurance-related security controls in NIST 800-53 Appendix E).Assurance is also based on the assessment of evidence produced during the system development life cycle. Critical missions/business functions are supported by high-impact systems and the associated assurance requirements for such systems. The additional assurance controls in Table E-4 in NIST 800-53 Appendix E (designated as optional) can be used to develop and implement high-assurance solutions for specific information systems and system components using the concept of overlays described in NIST 800-53 Appendix I. Organizations select assurance overlays that have been developed, validated, and approved for community adoption (e.g., cross-organization, government wide), limiting the development of such overlays on an organization-by-organization basis. Organizations can conduct criticality analyses as described in SA-14, to determine the information systems, system components, or information system services that require high-assurance solutions. Trustworthiness requirements and assurance overlays can be described in the security plans for organizational information systems.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:29</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>da873dfcdb211010280df36f29961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:29</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:36</sys_created_on>
+        <sys_id>643f7f06db251010280df36f29961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SA-13</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_643f7f06db251010280df36f29961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:36</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

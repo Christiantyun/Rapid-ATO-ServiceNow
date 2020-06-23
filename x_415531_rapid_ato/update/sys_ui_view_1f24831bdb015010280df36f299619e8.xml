@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>ars_list</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 16:49:45</sys_created_on>
+        <sys_id>1f24831bdb015010280df36f299619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARS List</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_ui_view_1f24831bdb015010280df36f299619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 16:49:45</sys_updated_on>
+        <title>ARS List</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

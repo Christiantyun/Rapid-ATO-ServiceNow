@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>9f87bdfcdb211010280df36f29961946</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Systems processing, storing, or transm</assessment_methods_and_objects>
+        <assessment_objective>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Determine if:(i) The organization provides individuals the ability to have access to their PII maintained in its system(s) of records;(ii) The organization publishes rules and regulatio</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The organization: a. Provides individuals the ability to have access to their PII maintained in its system(s) of records; b. Publishes rules and regulations governing how individuals may request access to records maintained in a Privacy Act system of records; c. Publishes access procedures in SORNs; and d. Adheres to Privacy Act requirements and OMB policies and guidance for the proper processing of Privacy Act requests.</control_definition>
+        <control_family display_value="Individual Participation and Redress">9787bdfcdb211010280df36f29961942</control_family>
+        <control_name>Individual Access</control_name>
+        <control_number>IP-02</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>IP-02</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>Systems processing, storing, or transmitting PHI:&#13;
+&#13;
+PHI.1 - Implement policies and procedures to comply with the regulatory requirements governing an individual’s right to access copies of their PHI,</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011269</number>
+        <opened_at>2020-06-19 13:21:33</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy/>
+        <rejection_goto/>
+        <related_controls>AR-8, IP-3, TR-1, TR-2</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The Individual Participation Fair Information Practice Principles (FIPP) requires organizations to provide mechanisms for individuals to gain access to their PII when appropriate. The Privacy Act of 1974, as amended, requires organizations to provide mechanisms for individuals to gain access to their PII when that PII meets the definition of a “record.” Access is also an important aspect of supporting correction of PII and redress against alleged violations and misuse of their PII. In addition to access requirements under the Privacy Act of 1974, as amended, HIPAA has statutory requirements to provide access to PHI.Access affords individuals the ability to review PII about them held within organizational systems of records. Access includes timely, simplified, and inexpensive access to data. Organizational processes for allowing access to records may differ based on resources, legal requirements, or other factors. The Senior Official for Privacy (SOP) working with the Privacy Act Officer is responsible for the content of Privacy Act regulations and record request processing, in consultation with legal counsel. Access to certain types of records may not be appropriate, however, and heads of agencies may promulgate rules exempting systems from the access provision of the Privacy Act. For example, individuals are not entitled to access to information compiled in reasonable anticipation of a civil action or proceeding. For other examples where agencies may promulgate rules exempting systems from the access provision, see the Privacy Act at 5 USC § 552a, subsections (j) (General Exemptions) and (k) (Specific Exemptions).Organizations must provide for public access to records, including PII not included in a Privacy Act System of Records, where required or appropriate. While the language of this control is specific to the Privacy Act’s requirements for access, FIPPs encourage organizations to use available authorities to provide access when the Privacy Act does not apply. For example, some organizations use the Freedom of Information Act as another tool to provide access to PII for an affected individual.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:33</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>9f87bdfcdb211010280df36f29961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:33</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:24</sys_created_on>
+        <sys_id>112fbb06db251010280df36f2996198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IP-02</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_112fbb06db251010280df36f2996198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:24</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

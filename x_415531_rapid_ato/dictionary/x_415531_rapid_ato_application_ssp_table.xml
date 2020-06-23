@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Application SSP Table" max_length="40" name="x_415531_rapid_ato_application_ssp_table" sizeclass="7" type="collection">
+        <element label="Chief Information Officer (CIO)" max_length="40" name="chief_information_officer_cio" type="string"/>
+        <element label="SSP Creation Date" max_length="40" name="ssp_creation_date" type="glide_date"/>
+        <element label="SSP Review Date" max_length="40" name="ssp_review_date" type="glide_date"/>
+        <element label="System" max_length="32" name="system" reference="x_415531_rapid_ato_systems" type="reference"/>
+        <element display="true" label="UID" max_length="40" name="uid" type="string"/>
+    </element>
+</database>

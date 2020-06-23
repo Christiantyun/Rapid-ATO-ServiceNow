@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>e6873dfcdb211010280df36f299619b2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: System and communications pro</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).&#13;
+&#13;
+Systems defined as CSPs:&#13;
+&#13;
+Determine if the organization has implemented all elements of this control as </assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The information system: a. terminates the network connection associated with a communications session at the end of the session, or:   1. Forcibly de-allocates communications session Dynamic Host Configuration Protocol (DHCP) leases after seven (7) days; and   2. Forcibly disconnects inactive VPN connections after thirty (30) minutes or less of inactivity; andb. terminates or suspends network connections (i.e., a system to system interconnection) upon issuance of an order by the CMS CIO, CISO, or Senior Official for Privacy (SOP).</control_definition>
+        <control_family display_value="System and Communications Protection">9e873dfcdb211010280df36f29961960</control_family>
+        <control_name>Network Disconnect</control_name>
+        <control_number>SC-10</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>SC-10</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>Systems defined as CSPs:&#13;
+&#13;
+High &amp; Moderate:&#13;
+&#13;
+CSP.1 - For CSPs, this Standard replaces the requirement defined within SC-10. The information system terminates the network connection associated with </implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>false</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011170</number>
+        <opened_at>2020-06-19 13:21:30</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>2</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>FedRAMP Rev. 4 Baseline; FISCAM: AS-3, CM-5; HIPAA: 45 C.F.R. §164.308(a)(5)(ii)(B); NIST SP: 800-40, 800-47, 800-182</reference_policy>
+        <rejection_goto/>
+        <related_controls/>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>This control applies to both internal and external networks. Terminating network connections associated with communications sessions include, for example, de-allocating associated TCP/IP address/port pairs at the operating-system level, or de-allocating networking assignments at the application level if multiple application sessions are using a single, operating system-level network connection. Time periods of inactivity may be established by organizations and include, for example, time periods by type of network access or for specific network accesses.A session is an encounter between an end-user interface device (e.g., computer, terminal, process) and an application, including a network logon—the AC-11 session lock applies. A connection-based session is one that requires a connection to be established between hosts prior to an exchange of data.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:30</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>e6873dfcdb211010280df36f299619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:30</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:39</sys_created_on>
+        <sys_id>193fbf06db251010280df36f299619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SC-10</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_193fbf06db251010280df36f299619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:39</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>b2877dfcdb211010280df36f29961936</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: System and information integr</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).&#13;
+&#13;
+Systems defined as CSPs:&#13;
+&#13;
+(i)  The CSP meets all the requirements specified in the applicable Implementa</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance>Assurance</assurance>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization: a. Receives information system security alerts, advisories, and directives from defined external organizations (including US-CERT and organizations as defined in the applicable System Security Plan) on an ongoing basis; b. Generates internal security alerts, advisories, and directives as deemed necessary; c. Disseminates security alerts, advisories, and directives to: defined personnel or roles (defined in the applicable System Security Plan); and d. Implements security directives in accordance with established time frames or notifies CMS of the degree of noncompliance.</control_definition>
+        <control_family display_value="System and Information Integrity">aa873dfcdb211010280df36f299619f4</control_family>
+        <control_name>Security Alerts, Advisories, and Directives</control_name>
+        <control_number>SI-05</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>SI-05</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>High, Moderate &amp; Low:&#13;
+&#13;
+Std.1 - The organization’s security operations center is responsible for responding to advisories, requests, or directives issued by the CMS Security Operations Center (SOC) a</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011208</number>
+        <opened_at>2020-06-19 13:21:31</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy/>
+        <rejection_goto/>
+        <related_controls>SI-2</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>The US-CERT generates security alerts and advisories to maintain situational awareness across the Federal Government. Security directives are issued by OMB or other designated organizations with the responsibility and authority to issue such directives. Compliance to security directives is essential due to the critical nature of many of these directives and the potential immediate adverse effects on organizational operations and assets, individuals, other organizations, and the Nation should the directives not be implemented in a timely manner. External organizations include, for example, external mission/business partners, supply chain partners, external service providers, and other peer/supporting organizations.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PHI:&#13;
+&#13;
+Receiving and acting on security alerts from US-CERT, or other appropriate organizations, assists in protecting PHI by protecting information systems against rapidly evolving threats.Under the HIPAA Security Rule, this is an addressable implementation specification. HIPAA covered entities must conduct an analysis as described at 45 C.F.R. § 164.306 (Security standards: General rules) part (d) (Implementation specifications) to determine how it must be applied within the organization.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:31</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>b2877dfcdb211010280df36f29961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:31</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:27</sys_created_on>
+        <sys_id>962ffb06db251010280df36f29961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SI-05</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_962ffb06db251010280df36f29961923</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:27</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

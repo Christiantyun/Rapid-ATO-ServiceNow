@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ARS_3_1 Import Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_415531_rapid_ato_ars_3_1_import_table</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 01:36:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22c631a4dbe01010280df36f29961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARS_3_1 Import Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_app_module_22c631a4dbe01010280df36f29961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 01:36:58</sys_updated_on>
+        <timeline_page/>
+        <title>ARS_3_1 Import Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_app_module_22c631a4dbe01010280df36f29961939</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>ARS_3_1 Import Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_415531_rapid_ato_ars_3_1_import_table</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-30 01:36:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>22c631a4dbe01010280df36f29961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ARS_3_1 Import Table</sys_name><sys_overrides/><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sys_app_module_22c631a4dbe01010280df36f29961939</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-30 01:36:58</sys_updated_on><timeline_page/><title>ARS_3_1 Import Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-431712332</payload_hash>
+        <record_name>ARS_3_1 Import Table</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 01:36:58</sys_created_on>
+        <sys_id>fec631a4dbe01010280df36f2996193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c8bad1510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 01:36:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3ac631a464e010102354418f458e283b</update_guid>
+        <update_guid_history>3ac631a464e010102354418f458e283b:-431712332</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ARS_3_1 Import Table">299a761fdbcd1010280df36f29961996</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 16:07:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>00148f73f38e4eac8811e88f7844db90</sys_id>
+        <sys_metadata>22c631a4dbe01010280df36f29961939</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARS_3_1 Import Table</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sys_app_module_22c631a4dbe01010280df36f29961939</sys_update_name>
+        <sys_update_version display_value="sys_app_module_22c631a4dbe01010280df36f29961939">fec631a4dbe01010280df36f2996193b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 16:07:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

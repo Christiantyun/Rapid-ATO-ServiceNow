@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>5387bdfcdb211010280df36f2996197e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Systems processing, storing, or transm</assessment_methods_and_objects>
+        <assessment_objective>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Determine if the system has a SORN in the Federal Register.</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The organization, through the HHS Privacy Act Officer, OpDiv Privacy Contacts, and the HHS Office of General Counsel: a.  Publishes SORNs in the Federal Register, subject to required oversight processes, for systems containing PII that are subject to the Privacy Act;b. Keeps SORNs current; and c. Includes Privacy Act Statements on its forms that collect PII, or on separate forms that can be retained by individuals, to provide additional formal notice to individuals from whom the information is being collected.</control_definition>
+        <control_family display_value="Transparency">db87bdfcdb211010280df36f29961960</control_family>
+        <control_name>System of Records Notices and Privacy Act Statements</control_name>
+        <control_number>TR-02</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>TR-02</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards/>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011279</number>
+        <opened_at>2020-06-19 13:21:33</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>Code: 5 U.S.C. §552a(e)(3)-(e)(4); OMB Circular A-130; Privacy Act: §552a(e)(3)</reference_policy>
+        <rejection_goto/>
+        <related_controls>DI-2</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+SORNs and Privacy Act Statements, i.e., (e)(3) notices, provide transparency, in advance of collection, use, maintenance, or sharing of PII when in a system that meets the statutory definition of a “system of records” under the Privacy Act. The Privacy Act notes that it uses “maintain” to include “maintain, collect, use or disseminate.” These requirements impact decisions made during planning, design, development, and operation of programs and systems.Organizations issue SORNs to provide the public notice regarding PII collected in a system of records, which the Privacy Act defines as “a group of any records under the control of any agency from which information is retrieved by the name of an individual or by some identifying number, symbol, or another identifier.” SORNs explain how the information is used, retained, and may be corrected, and whether certain portions of the system are subject to Privacy Act exemptions for law enforcement or national security reasons. Privacy Act Statements provide notice of: (i) the authority of organizations to collect PII; (ii) whether providing PII is mandatory or optional; (iii) the principal purpose(s) for which the PII is to be used; (iv) the intended disclosures (routine uses) of the information; and (v) the consequences of not providing all or some portion of the information requested. When information is collected verbally, organizations read a Privacy Act Statement prior to initiating the collection of PII (for example, when conducting telephone interviews or surveys).The Privacy Act and OMB guidance set forth specific requirements regarding when and how notices are provided. In addition to any internal organization review process, the publication of a SORN in the Federal Register requires a mandatory review and comment period of a minimum of 40 days. Regarding TR-2, paragraph a, the publication of a SORN is required only when the PII is maintained in a system that meets the statutory definition of a “system of records” under the Privacy Act. Not all systems containing PII may meet the definition of a “system of records.” However, all PII maintained by an organization must be protected irrespective of whether the PII is subject to the Privacy Act.Regarding TR-2, paragraph c, the Privacy Act Statement, when required, should be provided in the same format as the information is collected. For example, an electronic statement on a website, a written statement on a paper form, and a verbal statement provided for information that is collected verbally.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:33</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>5387bdfcdb211010280df36f2996197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:33</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:11</sys_created_on>
+        <sys_id>961f7b06db251010280df36f2996191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TR-02</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_961f7b06db251010280df36f2996191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:11</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

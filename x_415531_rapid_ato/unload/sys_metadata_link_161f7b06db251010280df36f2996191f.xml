@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>5487b9fcdb211010280df36f29961913</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Access control policy; system</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).&#13;
+&#13;
+Systems defined as CSPs:&#13;
+&#13;
+Determine if the organization has implemented all elements of this control as </assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization employs the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) which are necessary to accomplish assigned tasks in accordance with CMS missions and business functions.</control_definition>
+        <control_family display_value="Access Control">408779fcdb211010280df36f29961977</control_family>
+        <control_name>Least Privilege</control_name>
+        <control_number>AC-06</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>AC-06</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>High &amp; Moderate:&#13;
+&#13;
+Std.1 - Disable all file system access not explicitly required for system, application, and administrator functionality. Std.2 - Contractors must be provided with minimal system an</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>false</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0010818</number>
+        <opened_at>2020-06-19 13:21:21</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>Code: 5 U.S.C. §552a(b); FedRAMP Rev. 4 Baseline; FISCAM: AC-3, AS-2; HIPAA: 45 C.F.R. §164.308(a)(3)(i); 45 C.F.R. §164.308(a)(4)(i); 45 C.F.R. §164.502(b), 45 C.F.R. §164.308(a)(4)(ii)(A), 45 C.F.R. §164.312(a)(1); Homeland Security Presidential Directive (HSPD)-7: D(10); OMB Memo: M-06-16;</reference_policy>
+        <rejection_goto/>
+        <related_controls>AC-2, AC-3, AC-5, CM-6, CM-7, PL-2</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Organizations employ least privilege for specific duties and information systems. The principle of least privilege is also applied to information system processes, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required organizational missions/business functions. Organizations consider the creation of additional processes, roles, and information system accounts as necessary, to achieve least privilege. Organizations also apply least privilege to the development, implementation, and operation of organizational information systems.The concept of least privilege aligns with the notion of only allowing access to sensitive information when an individual has a need-to-know in performance of their job duties.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The concept of least privilege aligns with the notion of only allowing access to PII when an individual has a need-to-know in performance of their job duties.The organization enforces the most restrictive set of rights/privileges or access needed by users (or processes acting on behalf of users) for the performance of specified tasks —increasing the level of restriction as PII confidentiality impact level rises. The organization ensures that users who must access records containing PII only have access to the minimum amount of PII, along with only those privileges (e.g., read, write, execute) necessary to perform their assigned tasks.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PHI:&#13;
+&#13;
+HIPAA requires least privilege to satisfy both the Minimum Necessary Rule and access control safeguards.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:21</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>5487b9fcdb211010280df36f29961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:21</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:11</sys_created_on>
+        <sys_id>161f7b06db251010280df36f2996191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AC-06</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_161f7b06db251010280df36f2996191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:11</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

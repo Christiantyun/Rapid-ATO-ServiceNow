@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="has_arch" label="Has Arch" language="en" table="x_415531_rapid_ato_systems">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>has_arch</element>
+            <help/>
+            <hint/>
+            <label>Has Arch</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_systems</name>
+            <plural>Has Arches</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 12:48:59</sys_created_on>
+            <sys_id>25605747db785010280df36f29961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Has Arch</sys_name>
+            <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+            <sys_update_name>sys_documentation_x_415531_rapid_ato_systems_has_arch_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 12:48:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

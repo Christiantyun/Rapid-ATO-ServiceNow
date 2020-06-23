@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>state</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 13:13:20</sys_created_on>
+        <sys_id>35e28e40db201010280df36f2996193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_ui_policy_action_35e28e40db201010280df36f2996193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 13:13:20</sys_updated_on>
+        <table>x_415531_rapid_ato_controls</table>
+        <ui_policy display_value="Make Inheritable &amp; Status visible and mandatory after Approval set to Requested">3e624a40db201010280df36f29961919</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_ui_policy_action_35e28e40db201010280df36f2996193f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>state</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 13:13:20</sys_created_on><sys_id>35e28e40db201010280df36f2996193f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sys_ui_policy_action_35e28e40db201010280df36f2996193f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 13:13:20</sys_updated_on><table>x_415531_rapid_ato_controls</table><ui_policy display_value="Make Inheritable &amp; Status visible and mandatory after Approval set to Requested">3e624a40db201010280df36f29961919</ui_policy><visible>false</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1357923994</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 13:13:21</sys_created_on>
+        <sys_id>7bf20280db201010280df36f2996195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c0eba58f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 13:13:21</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>b3f202809b201010429ef20d8e83575e</update_guid>
+        <update_guid_history>b3f202809b201010429ef20d8e83575e:1357923994</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:12:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>153414602ed9465db0331440eff07241</sys_id>
+        <sys_metadata>35e28e40db201010280df36f2996193f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent display_value="">3e624a40db201010280df36f29961919</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_35e28e40db201010280df36f2996193f</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_35e28e40db201010280df36f2996193f">7bf20280db201010280df36f2996195e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:12:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

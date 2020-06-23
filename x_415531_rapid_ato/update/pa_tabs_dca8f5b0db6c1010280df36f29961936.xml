@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Rapid ATO Dashboard - New Tab">5ca87130db6c1010280df36f299619fc</canvas_page>
+        <name>Rapid ATO Dashboard - New Tab</name>
+        <page display_value="PA Rapid ATO Dashboard - New Tab">90a87130db6c1010280df36f299619fb</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 20:23:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dca8f5b0db6c1010280df36f29961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rapid ATO Dashboard - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>pa_tabs_dca8f5b0db6c1010280df36f29961936</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 20:23:29</sys_updated_on>
+    </pa_tabs>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="rapid_ato_homepage">24cb82f6db501010280df36f2996195c</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Rapid ATO Menu">91685e73dbd01010280df36f299619bd</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 14:52:08</sys_created_on>
+        <sys_id>3c36af66db201010280df36f2996198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rapid ATO</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sp_portal_3c36af66db201010280df36f2996198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 14:52:08</sys_updated_on>
+        <theme/>
+        <title>Rapid ATO</title>
+        <ts_index_group/>
+        <url_suffix>RapidATO</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=3c36af66db201010280df36f2996198a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sp_portal_3c36af66db201010280df36f2996198a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><homepage display_value="rapid_ato_homepage">24cb82f6db501010280df36f2996195c</homepage><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page/><logo/><notfound_page/><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><sp_chat_queue/><sp_rectangle_menu display_value="Rapid ATO Menu">91685e73dbd01010280df36f299619bd</sp_rectangle_menu><sqanda_knowledge_base/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-06 14:52:08</sys_created_on><sys_id>3c36af66db201010280df36f2996198a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rapid ATO</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sp_portal_3c36af66db201010280df36f2996198a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-06 14:52:08</sys_updated_on><theme/><title>Rapid ATO</title><ts_index_group/><url_suffix>RapidATO</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=3c36af66db201010280df36f2996198a"/></record_update>]]></payload>
+        <payload_hash>-2039367238</payload_hash>
+        <record_name>Rapid ATO</record_name>
+        <reverted_from/>
+        <source>25aebd0ddba45010280df36f299619f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 14:52:08</sys_created_on>
+        <sys_id>955623a6db201010280df36f29961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ea78f9290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 14:52:08</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>9156ef6671201010eb38009ec030ba39</update_guid>
+        <update_guid_history>9156ef6671201010eb38009ec030ba39:-2039367238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rapid ATO">d6aea907db201010280df36f2996190b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 19:26:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>2d61bfe1243d4a589b2ea812ae2d16a4</sys_id>
+        <sys_metadata>3c36af66db201010280df36f2996198a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rapid ATO</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sp_portal_3c36af66db201010280df36f2996198a</sys_update_name>
+        <sys_update_version display_value="sp_portal_3c36af66db201010280df36f2996198a">955623a6db201010280df36f29961989</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 19:26:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

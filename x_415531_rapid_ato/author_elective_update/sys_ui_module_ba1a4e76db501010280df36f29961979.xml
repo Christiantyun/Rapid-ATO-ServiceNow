@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Controls">f61a4e76db501010280df36f29961976</application>
+        <filter/>
+        <name>Controls</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_415531_rapid_ato.controls_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 16:32:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba1a4e76db501010280df36f29961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Controls</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_ui_module_ba1a4e76db501010280df36f29961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 16:32:00</sys_updated_on>
+        <table>x_415531_rapid_ato_controls</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_ui_module_ba1a4e76db501010280df36f29961979</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Controls">f61a4e76db501010280df36f29961976</application><filter/><name>Controls</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_415531_rapid_ato.controls_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-24 16:32:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ba1a4e76db501010280df36f29961979</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Controls</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sys_ui_module_ba1a4e76db501010280df36f29961979</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-24 16:32:00</sys_updated_on><table>x_415531_rapid_ato_controls</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>706575709</payload_hash>
+        <record_name>Controls</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 16:32:00</sys_created_on>
+        <sys_id>fa1a4e76db501010280df36f2996197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ad0814f00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 16:32:00</sys_updated_on>
+        <type>Module</type>
+        <update_guid>361a4e76425010109d78211aefc3d37c</update_guid>
+        <update_guid_history>361a4e76425010109d78211aefc3d37c:706575709</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:12:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>38b5641bba82467291b8bd0be4e37d69</sys_id>
+        <sys_metadata>ba1a4e76db501010280df36f29961979</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Controls</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ba1a4e76db501010280df36f29961979</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ba1a4e76db501010280df36f29961979">fa1a4e76db501010280df36f2996197c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:12:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

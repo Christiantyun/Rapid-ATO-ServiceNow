@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="2">bd4eeeb3db141010280df36f29961964</sp_column>
-        <sp_widget display_value="USDA Lin-Button">added6f7dbd01010280df36f299619d9</sp_widget>
+        <sp_widget display_value="USWDS Link-Button">added6f7dbd01010280df36f299619d9</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-27 21:44:05</sys_created_on>

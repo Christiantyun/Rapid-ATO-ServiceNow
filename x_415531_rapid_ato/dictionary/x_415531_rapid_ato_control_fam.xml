@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_415531_rapid_ato_control_family" label="Control Family" max_length="40" name="x_415531_rapid_ato_control_fam" sizeclass="26" type="collection">
+        <element display="true" label="Control Family" max_length="40" name="control_family" type="string"/>
+        <element default="true" label="IsEnabled" max_length="40" name="isenabled" type="boolean"/>
+        <element label="Prefix" max_length="40" name="prefix" type="string"/>
+    </element>
+</database>

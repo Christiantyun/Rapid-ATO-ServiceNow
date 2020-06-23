@@ -1,62 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_415531_rapid_ato_controls" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Not Satisfied</label>
-            <language>en</language>
-            <name>x_415531_rapid_ato_controls</name>
-            <sequence>0</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-24 16:44:46</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>3d0d023adb501010280df36f299619a8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-24 16:44:46</sys_updated_on>
-            <value>2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Partially Satisfied</label>
-            <language>en</language>
-            <name>x_415531_rapid_ato_controls</name>
-            <sequence>1</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-24 16:44:46</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>bd0d023adb501010280df36f299619aa</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-24 16:44:46</sys_updated_on>
-            <value>3</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Satisfied</label>
-            <language>en</language>
-            <name>x_415531_rapid_ato_controls</name>
-            <sequence>2</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-24 16:44:46</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>790d023adb501010280df36f299619ac</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-24 16:44:46</sys_updated_on>
-            <value>4</value>
-        </sys_choice>
+    <sys_choice action="DELETE" field="state" table="x_415531_rapid_ato_controls" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
@@ -93,4 +36,49 @@
             <sys_updated_on>2020-04-24 16:44:46</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_choice_x_415531_rapid_ato_controls_state</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="state" table="x_415531_rapid_ato_controls" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Not Applicable</label><language>en</language><name>x_415531_rapid_ato_controls</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-24 16:44:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>350d023adb501010280df36f299619ae</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-24 17:09:30</sys_updated_on><value>5</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>state</element><name>x_415531_rapid_ato_controls</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-24 16:44:46</sys_created_on><sys_id>b50d023adb501010280df36f299619a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sys_choice_x_415531_rapid_ato_controls_state</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-24 16:44:46</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-695513896</payload_hash>
+        <record_name>x_415531_rapid_ato_controls.state</record_name>
+        <reverted_from/>
+        <source>aa5fc130dbe81010280df36f299619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:12:21</sys_created_on>
+        <sys_id>280bb989dba45010280df36f29961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d0cbaf510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:12:21</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>200bb98919a4501014d5ee72bb3b3b18</update_guid>
+        <update_guid_history>200bb98919a4501014d5ee72bb3b3b18:-695513896,280bb989e1a450104c87952aceba2614:1146654772,e00bb989bda450105e1fde10964cfc11:1159018180,c8b21efac9501010453ace66c4afd5db:-2096858319,310d023a20501010c6c678823b92fbb1:-2047469145</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:12:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>b50d023adb501010280df36f299619a9</sys_id>
+        <sys_metadata>b50d023adb501010280df36f299619a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sys_choice_x_415531_rapid_ato_controls_state</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_415531_rapid_ato_controls_state">280bb989dba45010280df36f29961918</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:12:21</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>a987f9fcdb211010280df36f2996197e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Incident response policy; pro</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization employs automated mechanisms to support the incident handling process.</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization identifies incidents and responses to classes of incident to ensure continuation of organizational missions and business functions. Classes of incident are based on attack vector (e.g., attack via external media, the web, improper system use, loss of equipment) and serve to further define specific handling procedures.&#13;
+&#13;
+Systems processing, storing, or transmitting PHI:&#13;
+&#13;
+The organization identifies emergencies, vandalism, security incidents, or natural disasters and reasonable and appropriate policies and procedures consistent with federal laws and regulations and organizational requirements to ensure continuation of organizational missions and business functions.</control_definition>
+        <control_family display_value="Incident Response">9987f9fcdb211010280df36f29961963</control_family>
+        <control_name>Continuity of Operations</control_name>
+        <control_number>IR-04(03)</control_number>
+        <control_type>Non-Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>IR-04</group_id>
+        <group_list/>
+        <high>false</high>
+        <impact>3</impact>
+        <implementation_standards>High:&#13;
+&#13;
+Std.1 - Incident response policies/procedures and business continuity processes should be aligned. Computer security incidents undermine the business resilience of an organization. Business c</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>false</low>
+        <made_sla>true</made_sla>
+        <moderate>false</moderate>
+        <number>ARSC0011018</number>
+        <opened_at>2020-06-19 13:21:26</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>1</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>OMB Memo: M-16-04; 45 C.F.R. §164.308(a)(7)(i); 45 C.F.R. §164.308(a)(7)(ii)(B); 45 C.F.R. §164.308(a)(7)(ii)(C); 45 C.F.R. §164.312(a)(2)(ii); 45 C.F.R. §164.310(a)(2)(i)</reference_policy>
+        <rejection_goto/>
+        <related_controls/>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Classes of incidents include, for example, malfunctions due to design/implementation errors and omissions, targeted malicious attacks, and untargeted malicious attacks. Appropriate incident response actions include, for example, graceful degradation, system shutdown, fall back to manual mode/alternative technology whereby the system operates differently, employing deceptive measures, alternate information flows, or operating in a mode that is reserved solely for when systems are under attack.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PHI:&#13;
+&#13;
+HIPAA requires administrative, physical and technical safeguards for the protection and access of PHI during an emergency or other occurrence.Organizations establish policies and procedures for responding to an emergency or other occurrence (for example, fire, vandalism, system failure, and natural disaster) that damages systems that contain PHI including procedures to enable continuation of critical business processes for the protection of PHI and for obtaining necessary PHI during an emergency. Additionally, HIPAA requires organizations to conduct a risk analysis to determine whether and to what extent they establish procedures that allow facility access in support of restoration of lost data under the disaster recovery plan in the event of an emergency.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:26</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>a987f9fcdb211010280df36f2996197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:26</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:26</sys_created_on>
+        <sys_id>f52fbb06db251010280df36f299619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IR-04(03)</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_f52fbb06db251010280df36f299619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:26</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

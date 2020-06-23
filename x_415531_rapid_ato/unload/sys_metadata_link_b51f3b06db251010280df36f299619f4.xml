@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>46873dfcdb211010280df36f29961904</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Security planning policy; pro</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance>Assurance</assurance>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization:a. Develops a security plan for the information system that is consistent with the RMH Procedures; and  1. Is consistent with the organization’s enterprise architecture;  2. Explicitly defines the authorization boundary for the system;  3. Describes the operational context of the information system in terms of missions and business processes;  4. Provides the security categorization of the information system including supporting rationale;  5. Describes the operational environment for the information system and relationships with or connections to other information systems;  6. Provides an overview of the security requirements for the system;  7. Identifies any relevant overlays, if applicable;  8. Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring and supplementation decisions; and  9. Is reviewed and approved by the authorizing official or designated representative prior to plan implementation.b. Distributes copies of the security plan and communicates subsequent changes to the plan to stakeholders;c. Reviews the security plan for the information system within every three hundred sixty-five (365) days; andd. Updates the plan, minimally every three (3) years, to address current conditions or whenever: - There are significant changes to the information system/environment of operation that affect security;  - Problems are identified during plan implementation or security control assessments; - When the data sensitivity level increases; - After a serious security violation caused by changes in the threat environment; or - Before the previous security authorization expires.e. Protects the security plan from unauthorized disclosure and modification.&#13;
+&#13;
+Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The system security plan (SSP) must provide the security category and the personally identifiable information (PII) confidentiality impact level of the system (as described in NIST SP 800-122), describe relationships with, and data flows of, PII to other systems; and provide an overview of security and privacy requirements for the system. The SSP must define the boundary within the system where PII is stored, processed, and/or maintained. The person responsible for meeting information system privacy requirements must provide input to the SSP.&#13;
+&#13;
+Systems defined as CSPs:&#13;
+&#13;
+The associated security plan must address gaps between the FedRAMP baseline and the ARS/CMS Minimum Security Requirements (CMSR) required baseline.</control_definition>
+        <control_family display_value="Planning">4687f9fcdb211010280df36f299619f4</control_family>
+        <control_name>System Security Plan</control_name>
+        <control_number>PL-02</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>PL-02</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>Systems processing, storing, or transmitting PHI:&#13;
+&#13;
+PHI.1 - Retain documentation of policies and procedures relating to HIPAA 164.306 for six (6) years from the date of its creation or the date when </implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011097</number>
+        <opened_at>2020-06-19 13:21:28</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>E-Government Act of 2002 (Pub. L. No. 107-347) §208; FedRAMP Rev. 4 Baseline; FISCAM: AS-1, SM-1; HIPAA: 45 C.F.R. §164.306(a); 45 C.F.R. §164.308(a)(1)(i); 45 C.F.R. §164.310; 45 C.F.R. §164.310(a)(2)(ii); 45 C.F.R. §164.316(a); 45 C.F.R. §164.316(b)(1)(i); 45 C.F.R. §164.316(b)(2)(ii) HSPD 7: J(35); NIST SP: 800-18; OMB Memo: M-03-22, M-17-12 Att. 1, A.2</reference_policy>
+        <rejection_goto/>
+        <related_controls>AC-2, AC-6, AC-14, AC-17, AC-20, CA-2, C</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Security plans relate security requirements to a set of security controls and control enhancements. Security plans also describe, at a high level, how the security controls and control enhancements meet those security requirements but do not provide detailed, technical descriptions of the specific design or implementation of the controls/enhancements. Security plans contain sufficient information (including the specification of parameter values for assignment and selection statements either explicitly or by reference) to enable a design and implementation that is unambiguously compliant with the intent of the plans and subsequent determinations of risk to organizational operations and assets, individuals, other organizations, and the Nation if the plan is implemented as intended. Organizations can also apply tailoring guidance to the security control baselines in NIST 800-53 Appendix D and Committee on National Security Systems (CNSS) Instruction 1253 to develop overlays for community-wide use or to address specialized requirements, technologies, or missions/environments of operation (e.g., DoD-tactical, Federal Public Key Infrastructure, or Federal Identity, Credential, and Access Management, space operations). NIST 800-53 Appendix I provides guidance on developing overlays.Security plans need not be single documents; the plans can be a collection of various documents, including documents that already exist. Effective security plans make extensive use of references to policies, procedures, and additional documents (e.g., design and implementation specifications) where more detailed information can be obtained. This reduces the documentation requirements associated with security programs and maintains security-related information in other established management/operational areas related to enterprise architecture, system development life cycle, systems engineering, and acquisition. For example, security plans do not contain detailed contingency plan or incident response plan information but instead provide explicitly or by reference sufficient information to define what needs to be accomplished by those plans.All CMS information systems and major applications are covered by a security plan, which is compliant with current CMS procedures.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The SSP is necessary for the information system to be authorized. As the security controls section of a privacy impact assessment or other privacy documentation may not provide sufficient details to determine which controls have been implemented, the SSP and plan of action and milestones (POA&amp;M, see PM-4) are the best locations to address privacy related security controls.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:28</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>46873dfcdb211010280df36f29961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:28</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:09</sys_created_on>
+        <sys_id>b51f3b06db251010280df36f299619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PL-02</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_b51f3b06db251010280df36f299619f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:09</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

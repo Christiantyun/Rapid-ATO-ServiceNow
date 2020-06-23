@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="fisma_category_of_the_it_solution" label="FISMA Category of the IT Solution" language="en" table="x_415531_rapid_ato_systems">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fisma_category_of_the_it_solution</element>
+            <help/>
+            <hint/>
+            <label>FISMA Category of the IT Solution</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_systems</name>
+            <plural>FISMA Category of the IT Solutions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-08 20:27:23</sys_created_on>
+            <sys_id>2b368b53db6c1010280df36f29961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>FISMA Category of the IT Solution</sys_name>
+            <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+            <sys_update_name>sys_documentation_x_415531_rapid_ato_systems_fisma_category_of_the_it_solution_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-08 20:27:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

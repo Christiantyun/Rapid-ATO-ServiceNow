@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>f6877dfcdb211010280df36f29961972</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: System and information integr</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.&#13;
+&#13;
+Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+For personally identifiable information (PII) maintained in a Privacy Act system of records, the corresponding record management requirements, including retention periods, must be addressed in the system of records notice (SORN).</control_definition>
+        <control_family display_value="System and Information Integrity">aa873dfcdb211010280df36f299619f4</control_family>
+        <control_name>Information Handling and Retention</control_name>
+        <control_number>SI-12</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>SI-12</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>High, Moderate &amp; Low:&#13;
+&#13;
+Std.1 - Retain output, including but not limited to audit records, system reports, business and financial reports, and business records from the information system in accordan</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011224</number>
+        <opened_at>2020-06-19 13:21:32</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>2</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>Code: U.S.C. §552a(e)(4); FedRAMP Rev. 4 Baseline; FISCAM: BP-3; 44 U.S.C. §3301, 45 C.F.R. §164.316(b)(1)(ii); 45 C.F.R. §164.316(b)(2)(i)</reference_policy>
+        <rejection_goto/>
+        <related_controls>AC-16, AU-5, AU-11, MP-2, MP-4, AP-2, DM</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Information handling and retention requirements cover the full life cycle of information, in some cases extending beyond the disposal of information systems. NARA provides guidance on records retention.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Sensitive information such as PII, even if not considered a “record” by statute, should be handled and retained in accordance with applicable regulatory requirements, organizational policies, industry best practices, and the Fair Information Practice Principles (FIPP). Retention and handling of PII that meets the definition of a “record” as defined by the Federal Records Act (44 U.S.C. §3301) should be addressed in a records disposition schedule. For PII that meets the definition of a “record” as defined by the Privacy Act for purposes of providing notice, the associated SORN should reflect the retention period from the organization’s applicable record retention schedule. Protected health information (PHI) must be handled and retained in accordance with the HIPAA Security Rule as it has specific requirements for information handling and record retention.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:32</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>f6877dfcdb211010280df36f29961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:32</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:42</sys_created_on>
+        <sys_id>4a3f3346db251010280df36f29961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SI-12</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_4a3f3346db251010280df36f29961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:42</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

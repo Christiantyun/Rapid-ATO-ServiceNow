@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_415531_rapid_ato_controls">x_415531_rapid_ato_controls</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CON</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 16:32:39</sys_created_on>
+        <sys_id>504a0a76db501010280df36f299619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CON</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_number_504a0a76db501010280df36f299619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 16:32:39</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rapid ATO">64898e36db501010280df36f29961934</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_number_504a0a76db501010280df36f299619d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_415531_rapid_ato_controls">x_415531_rapid_ato_controls</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>CON</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-24 16:32:39</sys_created_on><sys_id>504a0a76db501010280df36f299619d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CON</sys_name><sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package><sys_policy/><sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope><sys_update_name>sys_number_504a0a76db501010280df36f299619d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-24 16:32:39</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>984953854</payload_hash>
+        <record_name>CON</record_name>
+        <reverted_from/>
+        <source>6c89c676db501010280df36f29961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 16:32:39</sys_created_on>
+        <sys_id>1c4a02b6db501010280df36f29961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ad08ada00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 16:32:39</sys_updated_on>
+        <type>Number</type>
+        <update_guid>544a02b6d95010101cf7c05892650542</update_guid>
+        <update_guid_history>544a02b6d95010101cf7c05892650542:984953854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:12:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>0d4166f4d084419890060ca5c5ef55f1</sys_id>
+        <sys_metadata>504a0a76db501010280df36f299619d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CON</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_parent display_value="">d5a90a76db501010280df36f299619c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_scope_delete display_value="">54ab8a5d1cfd4ca0b81119d2bc1f3610</sys_scope_delete>
+        <sys_update_name>sys_number_504a0a76db501010280df36f299619d7</sys_update_name>
+        <sys_update_version display_value="sys_number_504a0a76db501010280df36f299619d7">1c4a02b6db501010280df36f29961942</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:12:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Systems " max_length="40" name="x_415531_rapid_ato_systems" sizeclass="7" type="collection">
+        <element default="43903e93dbcd1010280df36f299619aa" label="ARS" mandatory="true" max_length="32" name="ars" reference="x_415531_rapid_ato_ars" type="reference"/>
+        <element label="Business Owner" mandatory="true" max_length="40" name="business_owner" type="string"/>
+        <element choice="1" label="FISMA Category of the IT Solution" mandatory="true" max_length="40" name="fisma_category_of_the_it_solution" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="0" value="Low"/>
+                <element inactive_on_update="false" label="Moderate" sequence="1" value="Moderate"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="High"/>
+            </choice>
+        </element>
+        <element default="true" label="Has Arch" max_length="40" name="has_arch" type="boolean"/>
+        <element choice="1" label="Hybrid Control" max_length="40" name="hybrid_control" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element choice="1" label="Inheritable" max_length="40" name="inheritable" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="ISSO Assigned for ATO Process" max_length="4000" name="isso_assigned_for_ato_process_optional" type="string"/>
+        <element choice="1" label="Overall Control Status" max_length="40" name="overall_control_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Satisfied" sequence="0" value="Not Satisfied"/>
+                <element inactive_on_update="false" label="Partially Satisfied" sequence="1" value="Partially Satisfied"/>
+                <element inactive_on_update="false" label="Satisfied" sequence="2" value="Satisfied"/>
+            </choice>
+        </element>
+        <element label="Shared System" max_length="32" name="shared_system" reference="x_415531_rapid_ato_systems" type="string"/>
+        <element label="System Description" mandatory="true" max_length="4000" name="system_description" type="string"/>
+        <element display="true" label="System Name" mandatory="true" max_length="50" name="system_name" type="string"/>
+        <element label="System Type" max_length="50" name="system_type" type="string"/>
+        <element label="UID" max_length="40" name="uid" type="string"/>
+    </element>
+</database>

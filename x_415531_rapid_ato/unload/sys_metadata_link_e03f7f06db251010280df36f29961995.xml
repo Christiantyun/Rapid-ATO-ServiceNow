@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>db87bdfcdb211010280df36f2996195d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Systems processing, storing, or transm</assessment_methods_and_objects>
+        <assessment_objective>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Determine if:(i) The organization develops and implements a Privacy Incident and Breach Response Plan; and(ii) The organization provides an organized and effective response to privacy i</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The organization: a. Develops and implements a Privacy Incident and Breach Response Plan; and b. Provides an organized and effective response to privacy incidents and breaches in accordance with HHS and CMS Privacy Incident (and Breach) Response Plans.</control_definition>
+        <control_family display_value="Security">9b87bdfcdb211010280df36f2996195a</control_family>
+        <control_name>Privacy Incident Response</control_name>
+        <control_number>SE-02</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>SE-02</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards/>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011275</number>
+        <opened_at>2020-06-19 13:21:33</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>CFR: 45 C.F.R. Part 164 Subpart D; 45 C.F.R. §164.308(a)(6); NIST SP: 800-37; OMB Memo: M-06-19, M-17-12; Privacy Act: §552a(e), §552a(i)(1), §552a(m)</reference_policy>
+        <rejection_goto/>
+        <related_controls>AR-1, AR-4, AR-5, AR-6, AU-1, AU-2, AU-3</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Developing and implementing a risk-based analysis for privacy breaches using a “Best Judgment Standard” as described in this control’s supplemental guidance ensures consistency in, and avoids over-reporting of, privacy breach notifications.The organizational Privacy Incident and Breach Response Plan may be integrated with the organizational Incident Response Plan.  The organization privacy incident and breach response capability must be able to demonstrate knowledge of the privacy incident and breach response processes and procedures and evidence showing the plan is followed routinely while responding to privacy incidents and breaches.In contrast to the Incident Response (IR) family in NIST 800-53 Appendix F, which concerns a broader range of incidents affecting information security, this control uses the term Privacy Incident to describe only those incidents that relate to personally identifiable information (PII). The organization Privacy Incident Response Plan is developed under the leadership of the Senior Official for Privacy (SOP). The plan includes: (i) The establishment of a cross-functional Privacy Incident Response Team that reviews, approves, and participates in the execution of the Privacy Incident Response Plan; (ii) A process to determine whether notice to oversight organizations or affected individuals is appropriate and to provide that notice accordingly; (iii) A privacy risk assessment process to determine the extent of harm, embarrassment, inconvenience, or unfairness to affected individuals and, where appropriate, to take steps to mitigate any such risks; (iv) Internal procedures to ensure prompt reporting by employees and contractors of any privacy incident to the SOP and other designated officials consistent with organizational incident management structures; and (v) Internal procedures for reporting noncompliance with organizational privacy policy by employees or contractors to appropriate management or oversight officials. Some organizations may be required by law or policy to provide notice to oversight organizations in the event of a breach.Organizations may also choose to integrate Privacy Incident Response Plans with Security Incident Response Plans or keep the plans separate.The Best Judgment Standard, explained in OMB M-17-12, Footnote 6, imposes a requirement for organizations to develop and implement a risk-based analysis for privacy breaches to determine whether the breach needs to be reported. The Best Judgment Standard gives organizations responsibility for their own data in two important ways. First, the organization must determine the sensitivity of its PII, based on the information and the context in which the information appears. Second, the organization must determine whether a privacy breach should be reported, based on the resultant privacy risk to the organization and to affected individuals. The Best Judgment Standard effectively imposes a requirement on organizations to develop and implement a risk-based analysis for privacy breaches to determine whether the breach needs to be reported. In the context of breach reporting, the purpose of the Best Judgment Standard is to limit reporting to those privacy breaches which meet the organization’s risk threshold. Conversely, under the Best Judgment Standard, organizations are not required to report privacy breaches that do not meet their risk threshold. The policy provides an example of implementing the Best Judgment Standard as discarding a document with the author’s name on the front and no other PII into an office trashcan, positing that this probably would fall below and organization’s risk threshold and would not need to be reported. OMB M-17-12 does not provide bright line rules to define what is considered “sensitive PII” using the common dictionary definition approach to the language in the memorandum–and under what circumstances a privacy breach should be reported, both because it would be a futile effort to attempt to delineate or predict the myriad potential contexts and situations, and agencies are in the best position to know and understand the relevant circumstances of their PII to determine which PII is sensitive and which breaches create risk.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:33</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>db87bdfcdb211010280df36f2996195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:33</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:36</sys_created_on>
+        <sys_id>e03f7f06db251010280df36f29961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SE-02</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_e03f7f06db251010280df36f29961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:36</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

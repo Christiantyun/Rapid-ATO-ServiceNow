@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="overall_control_status" label="Overall Control Status" language="en" table="x_415531_rapid_ato_systems">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>overall_control_status</element>
+            <help/>
+            <hint/>
+            <label>Overall Control Status</label>
+            <language>en</language>
+            <name>x_415531_rapid_ato_systems</name>
+            <plural>Overall Control Status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 14:31:17</sys_created_on>
+            <sys_id>5e8438b5db011010280df36f299619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Overall Control Status</sys_name>
+            <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+            <sys_update_name>sys_documentation_x_415531_rapid_ato_systems_overall_control_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 14:31:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

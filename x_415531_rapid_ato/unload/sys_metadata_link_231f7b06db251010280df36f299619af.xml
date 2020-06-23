@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>7487b9fcdb211010280df36f299619ac</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Security assessment and autho</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance>Assurance</assurance>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization: Authorizing Official (AO) authorizes the information system for processing prior to commencing any operations; and a. Updates the security authorization:  - Within every three (3) years;  - When significant changes are made to the system;  - When changes in requirements result in the need to process data of a higher sensitivity;  - When changes occur to authorizing legislation or federal requirements that impact the system;  - After the occurrence of a serious security violation which raises questions about the validity of an earlier security authorization; and  - Prior to expiration of a previous security authorization.</control_definition>
+        <control_family display_value="Security Assessment and Authorization">a887b9fcdb211010280df36f2996199b</control_family>
+        <control_name>Security Authorization</control_name>
+        <control_number>CA-06</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>CA-06</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>High, Moderate &amp; Low:&#13;
+&#13;
+Std.1 - The organization must notify the CCIC of significant changes to architecture, security posture, or other items that could cause degradation or unexpected results in se</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0010903</number>
+        <opened_at>2020-06-19 13:21:23</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>1</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>Code: Pub. L. No. 107-347, §208; 5 U.S.C. §552a(e)(10); FedRAMP Rev. 4 Baseline; FISCAM: AS-1, SM-2; HIPAA: 45 C.F.R. §164.308(a)(2); 45 C.F.R. §164.308(a)(8); 45 C.F.R. §164.316(b)(2)(iii); HSPD 7: F(19); NIST SP: 800-37, 800-39, 800-137; OMB Memo: M-11-33, M-14-03, M-15-01, M-16-04; OMB Circular A-130</reference_policy>
+        <rejection_goto/>
+        <related_controls>CA-1, CA-2, CA-7, PM-9, PM-10</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Security authorizations are official management decisions, conveyed through authorization decision documents, by the CMS CIO or his/her designated representative (i.e., authorizing officials) to authorize operation of information systems and to explicitly accept the risk to CMS operations and assets, individuals, other organizations, and the Nation based on the implementation of agreed-upon security controls. Explicit authorization to operate the information system is provided by the CMS CIO or his/her designated representative prior to a system being placed into operations. Through the security authorization process, the CMS CIO is accountable for security risks associated with the operation and use of CMS information systems.OMB policy requires that organizations conduct ongoing authorizations of information systems by implementing continuous monitoring programs. Continuous monitoring programs can satisfy three-year reauthorization requirements, so separate reauthorization processes are not necessary. Through the employment of comprehensive continuous monitoring processes, critical information contained in authorization packages (i.e., security plans, security assessment reports, and plans of action and milestones) is updated on an ongoing basis, providing the CMS CIO and information system owners with an up-to-date status of the security state of organizational information systems and environments of operation. To reduce the administrative cost of security reauthorization, the CMS CIO uses results of the continuous monitoring processes to the maximum extent possible as the basis for rendering reauthorization decisions.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+One of the considerations for the “go/no go” decision when authorizing (or re-authorizing) an information system is whether applicable privacy requirements have been met.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PHI:&#13;
+&#13;
+The senior-level executive should be one of the following: HIPAA Security Officer, Authorizing Official, Program Manager, Information System Security Manager (ISSM), or Information System Security Officer (ISSO).&#13;
+&#13;
+Guidance for systems defined as CSPs:&#13;
+&#13;
+Significant change is defined in NIST SP 800-37 Revision 1, Appendix F. The CSP describes the types of changes to the information system or the environment of operations that would require a reauthorization of the information system. The types of changes are approved and accepted by the Joint Authorization Board (JAB).</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:23</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>7487b9fcdb211010280df36f299619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:23</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:16</sys_created_on>
+        <sys_id>231f7b06db251010280df36f299619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CA-06</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_231f7b06db251010280df36f299619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:16</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

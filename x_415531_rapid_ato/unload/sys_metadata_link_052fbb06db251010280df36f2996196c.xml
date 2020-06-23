@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>9887b9fcdb211010280df36f29961945</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Access control policy; system</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization: a. Facilitates information sharing by enabling authorized users to determine whether access authorizations assigned to the sharing partner match the access restrictions on the information for approved information-sharing circumstances where user discretion is required; and b. Employs defined automated mechanisms, or manual processes, (defined in the applicable security plan) to assist users in making information sharing/collaboration decisions.</control_definition>
+        <control_family display_value="Access Control">408779fcdb211010280df36f29961977</control_family>
+        <control_name>Information Sharing</control_name>
+        <control_number>AC-21</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>AC-21</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards/>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>false</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0010853</number>
+        <opened_at>2020-06-19 13:21:22</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>2</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>Code: 5 U.S.C. §552a(b) and (e); FedRAMP Rev. 4 Baseline; Privacy: Privacy and Civil Liberties Implementation Guide for the Information Sharing Environment; 45 C.F.R. §164.308(a)(3)(ii)(A); 45 C.F.R. §164.308(a)(4)(ii)(B); 45 C.F.R. §164.308(a)(4)(ii)(C); 45 C.F.R. §164.310(a)(2)(iii); 45 C.F.R. §164.310(b); 45 C.F.R. §164.312(a)(1); 45 C.F.R. §164.314(a)</reference_policy>
+        <rejection_goto/>
+        <related_controls>AC-3, TR-1, UL-2</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>This control applies to information that may be restricted in some manner (e.g., privileged medical information, contract-sensitive information, proprietary information, personally identifiable information (PII), classified information related to special access programs or compartments) based on some formal or administrative determination. Depending on the information-sharing circumstances, sharing partners may be defined at the individual, group, or organizational level. Information may be defined by content, type, security category, or special access program/compartment.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+When PII is shared, it is necessary to ensure the PII is being shared in accordance with statutory and regulatory requirements, including any restrictions on how the PII may be shared and the requirements for security of the receiving partner.This control addresses the sharing of information in a general sense (i.e., disclosure). It is not “information sharing” as defined by the Information Sharing Environment (ISE) Privacy Guidelines. All sharing partners, processes, and information systems must comply with applicable system of records notices (SORN), Privacy Impact Assessments (PIA), or other forms of notice or public statements. Examples of actions that may be required to implement privacy requirements in information sharing activities include: addressing privacy requirements in information sharing agreements; ensuring sharing partners have a mutual understanding of the PII confidentiality impact level (as NIST SP 800-122 is a risk based analysis and accepts variation in organizational implementation); developing processes and supporting mechanisms to ensure/enforce compliance; and implementing technical capabilities that enforce privacy requirements for PII stored or processed by a sharing partner. Program managers and system owners should work with their privacy offices to ensure information sharing activities are compliant with privacy requirements.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PHI:&#13;
+&#13;
+The CMS Senior Official for Privacy (SOP) may permit a business associate to create, receive, maintain, or transmit PHI on behalf of the organization to the extent the business associate is required by law to perform such function or activity, without meeting the requirements of a business associate contract, provided that the SOP attempts in good faith to obtain satisfactory assurances required in the business associate contracts, and documents the attempt and the reasons that these assurances cannot be obtained. This control helps covered entities to enforce the Minimum Necessary Rule.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:22</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>9887b9fcdb211010280df36f29961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:22</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:22</sys_created_on>
+        <sys_id>052fbb06db251010280df36f2996196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AC-21</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_052fbb06db251010280df36f2996196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:22</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

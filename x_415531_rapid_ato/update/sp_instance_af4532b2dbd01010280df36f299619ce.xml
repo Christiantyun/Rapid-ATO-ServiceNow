@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">b645f2b2dbd01010280df36f2996192b</sp_column>
-        <sp_widget display_value="ATO_SNOW_Login">a205b2b2dbd01010280df36f299619c0</sp_widget>
+        <sp_widget/>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-24 19:40:44</sys_created_on>
