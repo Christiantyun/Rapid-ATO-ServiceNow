@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_415531_rapid_ato_ssp_arch">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="next_control" table="x_415531_rapid_ato_ssp_arch">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Next Control</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>next_control</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>100</max_length>
         <name>x_415531_rapid_ato_ssp_arch</name>
         <next_element/>
         <primary>false</primary>
@@ -47,21 +47,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>978</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-05-28 14:44:15</sys_created_on>
-        <sys_id>5487b839db011010280df36f29961928</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>x_415531_rapid_ato_ssp_arch</sys_name>
+        <sys_created_on>2020-06-22 19:22:22</sys_created_on>
+        <sys_id>27a6ae3ddb691010280df36f29961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Next Control</sys_name>
         <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
-        <sys_update_name>sys_dictionary_x_415531_rapid_ato_ssp_arch_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-06-23 12:58:38</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_415531_rapid_ato_ssp_arch_next_control</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-22 19:22:22</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
