@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Control Grouping" max_length="40" name="x_415531_rapid_ato_control_grouping" sizeclass="446" type="collection">
+    <element extends="task" label="Control Grouping" max_length="40" name="x_415531_rapid_ato_control_grouping" sizeclass="670" type="collection">
         <element label="Application SSP Table" max_length="32" name="application_ssp_table" reference="x_415531_rapid_ato_application_ssp_table" type="reference"/>
         <element label="ARS Controls" max_length="32" name="ars_controls" reference="x_415531_rapid_ato_ars_3_1" type="reference"/>
         <element label="Group ID" max_length="40" name="group_id" type="string"/>
