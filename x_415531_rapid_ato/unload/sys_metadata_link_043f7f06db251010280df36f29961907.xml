@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>d387bdfcdb211010280df36f29961962</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Systems processing, storing, or transm</assessment_methods_and_objects>
+        <assessment_objective>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Determine if:(i) The organization provides effective notice to the public and to individuals regarding their privacy program policies and practices that includes:  - its activities that</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The organization: a. Provides effective notice to the public and to individuals regarding:    (i) Its activities that impact privacy, including its collection, use, sharing, safeguarding, maintenance, and disposal of PII;    (ii) Authority for collecting PII;    (iii) The choices, if any, individuals may have regarding how the organization uses PII and the consequences of exercising or not exercising those choices; and    (iv) The ability to access and have PII amended or corrected if necessary. b. Describes:    (i) The PII the organization collects and the purpose(s) for which it collects that information;    (ii) How the organization uses PII internally;    (iii) Whether the organization shares PII with external entities, the categories of those entities, and the purposes for such sharing;    (iv) Whether individuals can consent to specific uses or sharing of PII and how to exercise any such consent;    (v) How individuals may obtain access to PII; and    (vi) How the PII will be protected. c. Revises its public notices to reflect changes in practice or policy that affect PII or changes in its activities that impact privacy, before or as soon as practicable after the change.</control_definition>
+        <control_family display_value="Transparency">db87bdfcdb211010280df36f29961960</control_family>
+        <control_name>Privacy Notice</control_name>
+        <control_number>TR-01</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>TR-01</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards/>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011277</number>
+        <opened_at>2020-06-19 13:21:33</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy/>
+        <rejection_goto/>
+        <related_controls>AP-1, AP-2, AR-1, AR-2, IP-1, IP-2, IP-3</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Providing the appropriate notification of privacy practices to the individual enables the individual to make an informed decision when they provide their consent.Effective notice, by virtue of its clarity, readability, and comprehensiveness, enables individuals to understand how an organization uses PII generally and, where appropriate, to make an informed decision prior to providing PII to an organization. Effective notice also demonstrates the privacy considerations that the organization has addressed in implementing its information practices. The organization may provide public notice through a variety of means. Some of these may be required by law or regulations, such as system of records notices (SORN) for Privacy Act systems, privacy impact assessments (PIA) for agency information systems and electronic collections of information, and website privacy policies for agency websites. As required by the Privacy Act, the organization also provides direct notice to individuals via Privacy Act Statements on the paper and electronic forms it uses to collect PII, or on separate forms that can be retained by the individuals.The Senior Official for Privacy (SOP) is responsible for the content of the organization’s public notices, in consultation with legal counsel and relevant program managers. The public notice requirement in this control may be satisfied by an organization’s compliance with the public notice requirements of federal laws, regulations, and guidelines, such as: Provisions of the Privacy Act,The E-Government Act’s PIA requirement,OMB Memoranda including M 03-22 (Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002), 17-06 (Policies for Federal Agency Public Websites and Digital Services), 10-22 (Guidance for Online Use of Web Measurement and Customization Technology), and 10-23 (Guidance for Agency Use of Third-Party Websites and Applications),The Children’s Online Privacy Protection Act (COPPA), andThe HIPAA Privacy Rule, Section 45 CFR § 164.520, “Notice of privacy practices for protected health information.” Changing PII practice or policy without prior notice is disfavored and should only be undertaken in consultation with the SOP and Chief Counsel.The website privacy policy described by OMB M-17-12, Policies for Federal Agency Public Websites and Digital Services, frequently referred to on organization websites as a “Privacy Policy” or “Privacy and Security Notice,” is intended as a broad notice of website privacy policies and general website use, and will not by itself meet the requirement for specific notice when collecting PII. When PII is maintained (including collection) in a system of records that is covered by the Privacy Act, the organization must provide a “Privacy Act Statement” to the individual at the time of collection that meets the requirements of the Privacy Act of 1974, 5 U.S.C. §552a(e)(3), unless the organization has published a rule exempting that system of records from the (e)(3) notice provision in accordance with subsection (j) of the Privacy Act. If the PII is not maintained in a system of records under the Privacy Act, a privacy notice should be provided which describes the privacy practices associated with that PII, including, but not limited to, the way the PII is protected, how it is used, and whether it is shared. To avoid confusion, this type of privacy notice must not be labeled as a “Privacy Act Statement.” As an alternative, several organizations refer to this notice type as a “Privacy Advisory.”&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PHI:&#13;
+&#13;
+The HIPAA Privacy Rule also requires a privacy notice referred to as a “Notice of Privacy Practices.” For specific rules on this notice please refer to 45 C.F.R. §164.520.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:33</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>d387bdfcdb211010280df36f29961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:33</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:34</sys_created_on>
+        <sys_id>043f7f06db251010280df36f29961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TR-01</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_043f7f06db251010280df36f29961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:34</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

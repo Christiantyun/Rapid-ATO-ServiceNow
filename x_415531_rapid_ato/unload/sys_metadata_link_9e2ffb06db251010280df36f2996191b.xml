@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>b087b9fcdb211010280df36f299619a5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Access control policy; proced</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance>Assurance</assurance>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization: a. Authorizes connections from the information system to other information systems using Interconnection Security Agreements (ISA) or other comparable agreements (such as MOU/MOA, SLA, or specific contractual clause, so long as the appropriate interconnection detail is provided therein); b. Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; c. Reviews and updates the interconnection agreements no less often that once every year and whenever significant changes (that can affect the security state of the information system) are implemented that could impact the validity of the agreement as a verification of enforcement of security requirements; andd. Only activates a system interconnection (including testing) when a signed interconnection agreement is in place.</control_definition>
+        <control_family display_value="Security Assessment and Authorization">a887b9fcdb211010280df36f2996199b</control_family>
+        <control_name>System Interconnections</control_name>
+        <control_number>CA-03</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>CA-03</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>High, Moderate &amp; Low:&#13;
+&#13;
+Std.1 - If the interconnecting systems have the same AO (or same primary operational IT infrastructure manager), an interconnection agreement document is not required; rather,</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0010898</number>
+        <opened_at>2020-06-19 13:21:23</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>Code: 5 U.S.C. §552a(o); FedRAMP Rev. 4 Baseline; FIPS Pub: 199; FISCAM: AC-1, AS-2; HIPAA: 45 C.F.R. §164.308(b)(1), 45 C.F.R. §164.308(b)(4), 45 C.F.R. §164.314(a)(2)(ii); 45 C.F.R. §164.308(b)(3); 45 C.F.R. §164.504(e)(3); HSPD 7:F(19); NIST SP: 800-47</reference_policy>
+        <rejection_goto/>
+        <related_controls>AC-3, AC-4, AC-20, AU-2, AU-12, AU-16, C</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>This control applies to dedicated connections between information systems (i.e., system interconnections) and does not apply to transitory, user-controlled connections such as email and website browsing. Organizations carefully consider the risks that may be introduced when information systems are connected to other systems with different security requirements and security controls, both within organizations and external to organizations. The CMS authorizing official determines the risk associated with information system connections and the appropriate controls employed. If interconnecting systems have the same CMS Authorizing Official, an Interconnection Security Agreement (ISA) or another specific interconnection document (such as MOU/MOA, SLA, or specific contractual clause) is not required. Interface characteristics between the interconnecting information systems can be described in the security plans for their respective systems. Instead of developing an interconnection agreement (or other valid interconnection agreement forms such as MOU/MOA, SLA, etc.), organizations may choose to incorporate this information into formal contracts (so long as the appropriate detail is provided therein), especially if the interconnection is to be established between CMS and a non-federal (private sector) organization. Risk considerations also include information systems sharing the same networks. For certain technologies (e.g., space, unmanned aerial vehicles, and medical devices), there may be specialized connections in place during preoperational testing. Such connections may require interconnection agreements and be subject to additional security controls.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Interconnection agreements document whether and under what circumstances sensitive information, such as personally identifiable information (PII), can be shared between information systems in different authorization boundaries (e.g., an interface between systems owned by different agencies) over a dedicated or “always on” connection. Interconnection agreements communicate that sensitive information will be communicated via the connection and define the security parameters required to protect it. Interconnection agreements also provide a record of agreed upon terms and a document against which controls can be enforced and audited. Organizational policy dictates whether interconnection agreements are required for internal connections within an organization.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PHI:&#13;
+&#13;
+Consider the need for a MOU/MOA or Business Associate Agreement, and implement as necessary.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:23</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>b087b9fcdb211010280df36f299619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:23</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:27</sys_created_on>
+        <sys_id>9e2ffb06db251010280df36f2996191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CA-03</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_9e2ffb06db251010280df36f2996191b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:27</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

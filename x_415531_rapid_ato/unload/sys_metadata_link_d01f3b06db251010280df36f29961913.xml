@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>1187f9fcdb211010280df36f2996196b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Incident response policy; pro</assessment_methods_and_objects>
+        <assessment_objective>Determine if:(i) The organization defines incident response tests;(ii) The organization defines in the security plan, explicitly or by reference, the frequency of incident response tests and the frequency is at least every 365 days;(iii) The organization </assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance>Assurance</assurance>
+        <baseline>High; Moderate</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization tests the incident response capability for the information system within every three hundred sixty-five (365) days using NIST SP 800-61, reviews, analyses, and simulations to determine the organization’s incident response effectiveness, and documents its findings.</control_definition>
+        <control_family display_value="Incident Response">9987f9fcdb211010280df36f29961963</control_family>
+        <control_name>Incident Response Testing</control_name>
+        <control_number>IR-03</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>IR-03</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>High &amp; Moderate:&#13;
+&#13;
+Std.1 - Incident response capability tests must exercise (or simulate exercise of) all organizational response capabilities.  The organization’s documented response to an actual hi</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>false</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011013</number>
+        <opened_at>2020-06-19 13:21:26</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>2</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>FedRAMP Rev. 4 Baseline; FISCAM: AC-5, AS-2; HIPAA: 45 C.F.R. §164.308(a)(6)(i); NIST SP: 800-84, 800-115; OMB Memo: M-16-04</reference_policy>
+        <rejection_goto/>
+        <related_controls>CP-4, IR-8</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Organizations test incident response capabilities to determine the overall effectiveness of its capabilities and to identify potential weaknesses or deficiencies. Incident response testing includes, for example, the use of checklists, walk-through or tabletop exercises, simulations (parallel/full interrupt), and comprehensive exercises. Incident response testing can also include a determination of the effects on organizational operations (e.g., reduction in mission capabilities), organizational assets, and individuals, due to the incident response activities themselves. In other words: an institution’s resources may be consumed and depleted both directly by an incident, and by its need to allocate resources to address the incident.If the organization routinely responds to incidents, and follows the documented incident response plan to do so, then full-scale simulations (or “table-top exercises”) might not be necessary, especially if the documentation produced from the incident response is sufficient to provide a thorough understanding of the breadth and depth of the organization’s analysis and response to the incident (including lessons learned). However, it is often the case that responses to incidents do not exercise the full incident response plan (for example, an incident might not meet the documented threshold requiring the organization to alert the media about the incident).  If the organization uses a historic response to an incident as the basis for the annual incident response capability test, any parts of the incident response capability that were not exercised in the historic response must be tested (either via actual exercises or through simulation) and documented as part of the capability test.&#13;
+&#13;
+Guidance for systems defined as CSPs:&#13;
+&#13;
+If the organization routinely responds to incidents, and follows the documented incident response plan to do so, then full-scale simulations (or “table-top exercises”) might not be necessary, especially if the documentation produced from the incident response is sufficient to provide a thorough understanding of the breadth and depth of the organization’s analysis and response to the incident (including lessons learned). However, it is often the case that responses to incidents do not exercise the full incident response plan (for example, an incident might not meet the documented threshold requiring the organization to alert the media about the incident).  If the organization uses a historic response to an incident as the basis for the annual incident response capability test, any parts of the incident response capability that were not exercised in the historic response must be tested (either via actual exercises or through simulation) and documented as part of the capability test.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:26</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>1187f9fcdb211010280df36f2996196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:26</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:03</sys_created_on>
+        <sys_id>d01f3b06db251010280df36f29961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IR-03</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_d01f3b06db251010280df36f29961913</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:03</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

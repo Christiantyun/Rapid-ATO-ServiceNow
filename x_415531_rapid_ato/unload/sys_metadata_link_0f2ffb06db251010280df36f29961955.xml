@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>c08779fcdb211010280df36f299619ff</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Examine: Procedures addressing account</assessment_methods_and_objects>
+        <assessment_objective>Determine if the organization has implemented all elements of this control as described in the control statements and implementation standard(s).</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>The organization only permits the use of shared/group accounts when a business need can be documented and approved, in advance, by the Authorizing Official (AO). a. When shared/group accounts are used, the applicable System Security Plan (SSP) must: 1. Describe how the shared/group accounts are used; and 2. Include compensating processes and procedures implemented to provide the ability to uniquely attribute account user activities.&#13;
+&#13;
+Systems processing, storing, or transmitting PHI:&#13;
+&#13;
+The organization only permits the use of shared/group accounts that meet the requirement to uniquely attribute user activity to an account.</control_definition>
+        <control_family display_value="Access Control">408779fcdb211010280df36f29961977</control_family>
+        <control_name>Restrictions on Use of Shared Groups/Accounts</control_name>
+        <control_number>AC-02(09)</control_number>
+        <control_type>Non-Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>AC-02</group_id>
+        <group_list/>
+        <high>false</high>
+        <impact>3</impact>
+        <implementation_standards/>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>false</low>
+        <made_sla>true</made_sla>
+        <moderate>false</moderate>
+        <number>ARSC0010804</number>
+        <opened_at>2020-06-19 13:21:20</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>1</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>Code: 5 U.S.C. §552a(b)(1); 5 U.S.C. §552a(c)(1); FedRAMP Rev. 4 Baseline; FISCAM: AC-3, AS-2; HIPAA: 45 C.F.R. §164.308(a)(3)(ii)(A), 45 C.F.R. §164.308(a)(4)(ii)(B), 45 C.F.R. §164.308(a)(4)(ii)(C), 45 C.F.R. §164.310(a)(2)(iii), 45 C.F.R. §164.310(b), 45 C.F.R. §164.312(a)(1), 45 C.F.R. §164.312(a)(2)(i), 45 C.F.R. §164.312(a)(2)(ii), 45 C.F.R. §164.312(a)(2)(iv); OMB Circular A-130: 7.g. and 8.a.1, 8.b.(2)(c).</reference_policy>
+        <rejection_goto/>
+        <related_controls>AC-14, AR-4</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Shared/group accounts do not provide the necessary accountability (such as non-repudiation) required to log and monitor access to sensitive information nor do they permit identification of individuals who have a need for access. Shared/group accounts also do not provide audit trails capable of associating a user with an action—eliminating the ability to establish non-repudiation. (Non-repudiation is a critical element of accountability and accuracy of information in systems, database or system history, and related logs and is important for investigating privacy incidents and breaches.)Refer to RMH for account management process and procedures.&#13;
+&#13;
+Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Access to PII is more effectively controlled when access controls are considered during system design and built-into or enforced by the system (i.e., automated controls).Shared/group accounts that do not allow for uniquely attributing user activities should not be used for information systems that contain PII or PHI. Shared/group accounts do not allow for the necessary accountability (such as non-repudiation) required to log and monitor access to PII and PHI nor do they permit identification of individuals who have a need for access. Shared/group accounts do not permit audit trails to associate a user with an action, eliminating the ability to establish non-repudiation. Non-repudiation is a critical element of accountability and accuracy of information in systems, database or system history, and related logs and is important for investigating privacy incidents and breaches.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:20</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>c08779fcdb211010280df36f299619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:20</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:30</sys_created_on>
+        <sys_id>0f2ffb06db251010280df36f29961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AC-02(09)</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_0f2ffb06db251010280df36f29961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:30</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>

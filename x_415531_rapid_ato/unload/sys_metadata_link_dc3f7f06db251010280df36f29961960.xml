@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>d787bdfcdb211010280df36f29961985</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_415531_rapid_ato_ars_3_1">
+    <x_415531_rapid_ato_ars_3_1 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <ars_id display_value="ARS 3.1">43903e93dbcd1010280df36f299619aa</ars_id>
+        <assessment_methods_and_objects>Systems processing, storing, or transm</assessment_methods_and_objects>
+        <assessment_objective>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Determine if: (i) The organization uses PII internally only for the authorized purpose(s) identified in the Privacy Act and/or in public noticesDetermine if: (i) The system’s use of PII</assessment_objective>
+        <assigned_to/>
+        <assignment_group/>
+        <assurance/>
+        <baseline>High; Moderate; Low</baseline>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <control_definition>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+The organization uses PII internally only for the authorized purpose(s) identified in the Privacy Act and/or in public notices.</control_definition>
+        <control_family display_value="Use Limitation">df87bdfcdb211010280df36f29961983</control_family>
+        <control_name>Internal Use</control_name>
+        <control_number>UL-01</control_number>
+        <control_type>Mandatory</control_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_id>UL-01</group_id>
+        <group_list/>
+        <high>true</high>
+        <impact>3</impact>
+        <implementation_standards>Systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+High &amp; Moderate:&#13;
+&#13;
+PRIV.1 - All PII must be used for an official government purpose only. The officers and employees of the organ</implementation_standards>
+        <knowledge>false</knowledge>
+        <location/>
+        <low>true</low>
+        <made_sla>true</made_sla>
+        <moderate>true</moderate>
+        <number>ARSC0011283</number>
+        <opened_at>2020-06-19 13:21:33</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <reference_policy>CFR: 45 C.F.R. §164.502; 45 C.F.R. §164.504; 45 C.F.R. §164.506; 45 C.F.R. §164.508; 45 C.F.R. §164.510; 45 C.F.R. §164.512; 45 C.F.R. §164.514 Code: 5 U.S.C. §552a; Pub. L. No. 107-347, §208; OMB Circular A-130: 7.g.; Privacy Act: §552a(b)(1)</reference_policy>
+        <rejection_goto/>
+        <related_controls>AC-2, AC-3, AC-5, AC-6, AC-8, AC-21, AU-</related_controls>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <standard>NIST-800</standard>
+        <state>1</state>
+        <supplemental_guidance>Guidance for systems processing, storing, or transmitting PII (to include PHI):&#13;
+&#13;
+Consistent with the Privacy Act, the organization’s internal use of PII contained in a system of records notice (SORN) is limited to the purposes identified in one of the 12 exceptions to Section b of the Privacy Act and as described in the SORN. Consistent with the Fair Information Practice Principles (FIPP) and Section 208 of the E-Government Act, the organization’s internal use of PII not contained in a SORN should be compatible with the purpose for which it was originally collected and as described in the PIA or other public notice.Organizations take steps to ensure that they use PII only for legally authorized purposes and in a manner compatible with uses identified in the Privacy Act and/or in public notices. These steps include monitoring and auditing organizational use of PII and training organizational personnel on the authorized uses of PII. With guidance from the Senior Official for Privacy (SOP) and where appropriate, legal counsel, organizations document processes and procedures for evaluating any proposed new uses of PII to assess whether they fall within the scope of the organizational authorities. Where appropriate, organizations obtain consent from individuals for the new use(s) of PII.The phrase “authorization schema” refers to the logic of how authorization permissions are designed to function within the system (e.g., by group, by role, by transaction type, etc.). An example of an authorization schema where permissions appropriately match functions would be a schema where a group of “reviewers” is separate from a group of “approvers.” Individuals assigned to the “reviewer” group could read PII and make recommendations, but not approve actions. Individuals in the “approver” group could read recommendations and approve actions. An authorization schema where all individuals are automatically authorized to approve all actions is an example of a schema where the alignment between permissions and functions may be inappropriate.</supplemental_guidance>
+        <sys_class_name>x_415531_rapid_ato_ars_3_1</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 13:21:33</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>d787bdfcdb211010280df36f29961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 13:21:33</sys_updated_on>
+        <task_for/>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_415531_rapid_ato_ars_3_1>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 20:26:35</sys_created_on>
+        <sys_id>dc3f7f06db251010280df36f29961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UL-01</sys_name>
+        <sys_package display_value="Rapid ATO" source="x_415531_rapid_ato">64898e36db501010280df36f29961934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rapid ATO">64898e36db501010280df36f29961934</sys_scope>
+        <sys_update_name>sys_metadata_link_dc3f7f06db251010280df36f29961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 20:26:35</sys_updated_on>
+        <tablename>x_415531_rapid_ato_ars_3_1</tablename>
+    </sys_metadata_link>
+</record_update>
